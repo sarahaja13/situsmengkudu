@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PT Ade Pratama Naturindo</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Gaegu:wght@700&family=Kalam:wght@700&display=swap" rel="stylesheet">    <!-- Remix Icon -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- ========================= -->
+    <!-- Navbar -->
+    <!-- ========================= -->
+
+    <header class="navbar">
+
+        <div class="container">
+
+            <!-- Logo -->
+
+            <a href="#" class="logo">
+                <img src="assets/logo.png" alt="PT Ade Pratama Naturindo">
+            </a>
+
+            <!-- Menu -->
+
+            <nav class="nav-menu">
+
+                <a href="#" class="active" data-lang="home">Beranda</a>
+
+                <a href="#" data-lang="about">Tentang Kami</a>
+
+                <a href="#" data-lang="product">Produk</a>
+
+                <a href="#" data-lang="advantages">Keunggulan</a>
+
+                <a href="#" data-lang="capacity">Kapasitas</a>
+
+                <a href="#" data-lang="contact">Kontak</a>
+
+            </nav>
+
+            <!-- Right Side -->
+
+            <div class="nav-right">
+
+                <!-- Language -->
+
+                <div class="language">
+
+                    <button class="language-btn">
+
+                        <i class="ri-earth-line"></i>
+
+                        <span id="current-language">Bahasa</span>
+
+                        <i class="ri-arrow-down-s-line"></i>
+
+                    </button>
+
+                    <div class="language-menu">
+
+                        <a href="#" onclick="changeLanguage('id')">
+                            🇮🇩 Indonesia
+                        </a>
+
+                        <a href="#" onclick="changeLanguage('en')">
+                            🇬🇧 English
+                        </a>
+
+                        <a href="#" onclick="changeLanguage('ko')">
+                            🇰🇷 한국어
+                        </a>
+
+                        <a href="#" onclick="changeLanguage('hi')">
+                            🇮🇳 हिन्दी
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <!-- Contact Button -->
+
+                <a href="#" class="btn-contact">
+
+                    <i class="ri-whatsapp-line"></i>
+
+                    <span data-lang="contactBtn">
+                        Hubungi Kami
+                    </span>
+
+                </a>
+
+                <!-- Mobile Menu -->
+
+                <div class="hamburger">
+
+                    <i class="ri-menu-3-line"></i>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <section class="hero">
+
+        <div class="hero-container">
+
+            <div class="hero-left">
+
+                <div class="hero-badge">
+
+                    <i class="ri-leaf-fill"></i>
+
+                    <span data-lang="qualityBadge">
+                        Kualitas Alami
+                    </span>
+
+                </div>
+
+                <h1 class="hero-title">
+
+                    <span data-lang="heroLine1">MENGKUDU</span>
+
+                    <span class="green" data-lang="heroLine2">
+                        INDONESIA
+                    </span>
+
+                </h1>
+
+                <h2 class="hero-subtitle"
+                    data-lang="heroSubtitle">
+
+                    KUALITAS ALAMI,
+                    SUPPLY TERJAMIN
+
+                </h2>
+
+                <p class="hero-desc"
+                    data-lang="heroDescription">
+
+                    <b>Kami menyediakan buah mengkudu segar berkualitas<br>
+                    tinggi dengan sistem pengelolaan modern<br>
+                    dan berkelanjutan.</b>
+                    
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#" class="btn-primary">
+
+                        <i class="ri-whatsapp-line"></i>
+
+                        <span data-lang="contactBtn">
+                            Hubungi Kami
+                        </span>
+
+                    </a>
+
+                    <a href="#produk" class="btn-secondary">
+
+                        <span data-lang="viewProduct">
+
+                            Lihat Produk
+
+                        </span>
+
+                        <i class="ri-arrow-right-line"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="hero-right">
+
+                <div class="video-wrapper">
+
+                    <video autoplay
+                        muted
+                        loop
+                        playsinline>
+
+                        <source
+                            src="assets/video/petani.mp4"
+                            type="video/mp4">
+
+                    </video>
+
+                    <div class="organic-logo">
+
+                        <div class="logo-ring">
+
+                            <span></span>
+
+                        </div>
+
+                        <img src="assets/logo-organik.png">
+
+                    </div>
+
+                    <div class="video-overlay">
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        <img src="assets/hero-fade.png"
+            class="hero-fade"
+            alt="">
+            
+        <img src="assets/leaf.png"
+            class="floating-leaf"
+            alt="">
+        
+        <div class="certification">
+
+            <p>
+                <span data-lang="certificationLine1">Sertifikasi</span><br>
+                <span class="green" data-lang="certificationLine2">Organik</span><br>
+                <span data-lang="certificationLine3">Indonesia</span>
+            </p>
+
+        </div>
+        <svg class="hero-mask"
+            viewBox="0 0 1600 900"
+            preserveAspectRatio="none">
+
+            <defs>
+
+                <radialGradient id="heroBlob"
+                                cx="18%"
+                                cy="45%"
+                                r="72%">
+
+                    <stop offset="0%"
+                        stop-color="white"/>
+
+                    <stop offset="42%"
+                        stop-color="white"/>
+
+                    <stop offset="60%"
+                        stop-color="white"
+                        stop-opacity=".96"/>
+
+                    <stop offset="76%"
+                        stop-color="white"
+                        stop-opacity=".68"/>
+
+                    <stop offset="90%"
+                        stop-color="white"
+                        stop-opacity=".18"/>
+
+                    <stop offset="100%"
+                        stop-color="white"
+                        stop-opacity="0"/>
+
+                </radialGradient>
+
+                <filter id="blobBlur">
+
+                    <feGaussianBlur stdDeviation="18"/>
+
+                </filter>
+
+            </defs>
+
+            <path
+
+            d="
+
+            M0 0
+
+            H760
+
+            C980 0
+            1180 120
+            1200 300
+
+            C1225 520
+            1110 760
+            820 900
+
+            H0
+
+            Z"
+
+            fill="url(#heroBlob)"
+
+            filter="url(#blobBlur)"
+
+            />
+
+        </svg>
+
+        <div class="hero-highlights">
+
+            <div class="highlight-item">
+
+                <div class="highlight-icon">
+                    <i class="ri-plant-line"></i>
+                </div>
+
+                <div class="highlight-text">
+
+                    <h4 data-lang="feature1Title">
+                        100% Alami
+                    </h4>
+
+                    <p data-lang="feature1Desc">
+                        Tanpa bahan kimia
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="highlight-item">
+
+                <div class="highlight-icon">
+                    <i class="ri-shield-check-line"></i>
+                </div>
+
+                <div class="highlight-text">
+
+                    <h4 data-lang="feature2Title">
+                        Kualitas Terjamin
+                    </h4>
+
+                    <p data-lang="feature2Desc">
+                        Kontrol kualitas ketat
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="highlight-item">
+
+                <div class="highlight-icon">
+                    <i class="ri-group-line"></i>
+                </div>
+
+                <div class="highlight-text">
+
+                    <h4 data-lang="feature3Title">
+                        Kemitraan Jangka Panjang
+                    </h4>
+
+                    <p data-lang="feature3Desc">
+                        Bersama petani lokal
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="hero-wave">
+
+            <svg
+            viewBox="0 0 1440 160"
+            preserveAspectRatio="none">
+
+            <path
+
+            fill="#ffffff"
+
+            d="
+            M0,55
+
+            C180,110
+            420,0
+            720,50
+
+            C980,90
+            1180,5
+            1440,65
+
+            L1440,160
+
+            L0,160
+
+            Z"
+
+            />
+
+            <path
+
+            fill="rgba(179,214,95,.35)"
+
+            d="
+            M0,65
+
+            C180,120
+            420,10
+            720,60
+
+            C980,98
+            1180,18
+            1440,78
+
+            L1440,160
+
+            L0,160
+
+            Z"
+
+            />
+
+            </svg>
+
+                <path
+
+                fill="rgba(255,255,255,.55)"
+
+                d="
+                M0,48
+
+                C180,103
+                420,-8
+                720,42
+
+                C980,82
+                1180,-3
+                1440,58
+
+                L1440,160
+
+                L0,160
+
+                Z"
+
+                />
+
+            </div>
+
+    </section>
+
+    <main>
+
+    </main>
+
+
+
+    <audio id="bgMusic" loop preload="auto">
+
+        <source src="assets/audio/bgm.mp3"
+                type="audio/mpeg">
+
+    </audio>
+
+    <button id="musicToggle"
+            class="music-toggle">
+
+        <i class="ri-volume-up-fill"></i>
+
+    </button>
+
+    <script src="js/script.js"></script>
+    <script src="js/language.js"></script>
+</body>
+
+</html>
