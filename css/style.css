@@ -31,11 +31,11 @@ color:#222;
 
     width:100%;
 
-    height:0;
+    height:90px;
 
     overflow:visible;
 
-    background:transparent;
+    background:#fff;
 
     backdrop-filter:none;
 
@@ -430,7 +430,7 @@ color:#2e7d32;
 
 font-weight:600;
 
-margin-bottom:28px;
+margin-bottom:8px;
 
 }
 
@@ -442,13 +442,13 @@ font-size:20px;
 
 .hero-title{
 
-font-size:72px;
+font-size:62px;
 
 font-weight:800;
 
 line-height:1;
 
-margin-bottom:18px;
+margin-bottom:4px;
 
 color:#063d20;
 
@@ -472,7 +472,7 @@ font-size:34px;
 
 font-weight:700;
 
-margin-bottom:24px;
+margin-bottom:5px;
 
 color:#174a2c;
 
@@ -480,7 +480,7 @@ color:#174a2c;
 
 .hero-desc{
 
-font-size:18px;
+font-size:17px;
 
 line-height:1.9;
 
@@ -488,7 +488,7 @@ max-width:560px;
 
 color:#555;
 
-margin-bottom:40px;
+margin-bottom:17px;
 
 }
 
@@ -606,7 +606,7 @@ background:none;
 
     position:absolute;
 
-    top:50%;
+    top:40%;
 
     left:46%;
 
@@ -759,13 +759,12 @@ background:none;
 }
 
 .logo-ring{
-    display: none;
 
     position:absolute;
 
-    width:185px;
+    width:130px;
 
-    height:185px;
+    height:130px;
 
     border-radius:50%;
 
@@ -926,7 +925,7 @@ background:none;
 
     left:18px;
 
-    bottom:-41px;
+    bottom:-18px;
 
     top:auto;
 
