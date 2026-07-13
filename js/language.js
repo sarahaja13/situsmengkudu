@@ -393,7 +393,115 @@ const translations = {
         offerDesc: "उत्पाद जानकारी और सर्वोत्तम मूल्य के लिए आज ही हमसे संपर्क करें।",
 
         footerWhatsapp: "WhatsApp पर चैट करें",
-    }
+    },
+
+    zh: {
+
+        home: "首页",
+        about: "关于我们",
+        product: "产品",
+        advantages: "优势",
+        capacity: "产能",
+        contact: "联系我们",
+        contactBtn: "联系我们",
+        language: "语言",
+
+        qualityBadge: "天然品质",
+
+        heroLine1: "印度尼西亚",
+        heroLine2: "诺丽果",
+
+        heroSubtitle: "稳定供应",
+
+        heroDescription: "<b>我们采用现代化、可持续的管理体系，<br>为您提供高品质的新鲜诺丽果。</b>",
+
+        viewProduct: "查看产品",
+
+        certificationLine1: "认证",
+        certificationLine2: "有机",
+        certificationLine3: "印度尼西亚",
+
+        feature1Title: "100% 天然",
+        feature1Desc: "无化学添加",
+
+        feature2Title: "品质保证",
+        feature2Desc: "严格质量控制",
+
+        feature3Title: "长期合作",
+        feature3Desc: "与当地农户合作",
+
+        whyTitle: "为什么选择我们？",
+
+        why1Title: "农户整合",
+        why1Desc: "与印度尼西亚各地优质农户合作。",
+
+        why2Title: "高品质标准",
+        why2Desc: "严格筛选，只提供优质诺丽果。",
+
+        why3Title: "计划采收",
+        why3Desc: "分阶段采收，确保新鲜与稳定供应。",
+
+        why4Title: "质量监督",
+        why4Desc: "发货前进行严格质量检查。",
+
+        why5Title: "快速配送",
+        why5Desc: "采收后24小时内发货。",
+
+        why6Title: "值得信赖的合作伙伴",
+        why6Desc: "透明、专业、共同成长。",
+
+        productTitle: "我们的产品",
+
+        freshTitle: "诺丽果品质标准",
+
+        fresh1: "自然成熟",
+        fresh2: "干净，无化学品及有害残留",
+        fresh3: "无腐烂、无碰伤",
+        fresh4: "果实颜色均匀洁白",
+        fresh5: "采收后24小时内发货",
+
+        capacityTitle: "供应能力",
+
+        capacityDesc: "产能可根据采购合同逐步提升，并确保采收后24小时内完成发货。",
+
+        capacityStage1: "初始阶段（稳定期）",
+        capacityStage2: "常规阶段",
+        capacityStage3: "合同阶段",
+
+        capacity40: "40 吨 / 月",
+        capacity60: "60 吨 / 月",
+        capacity100: "100 吨 / 月",
+
+        capacityNote: "采收后24小时内发货。",
+
+        commitmentTitle: "我们的承诺",
+
+        commitment1: "持续优化生产体系",
+        commitment2: "支持现场审核与验厂",
+        commitment3: "土地信息透明",
+        commitment4: "稳定供应能力",
+        commitment5: "多产区供应，降低减产风险",
+        commitment6: "与农户建立长期合作",
+        commitment7: "稳定合理的价格体系",
+
+        ctaTitle: "欢迎与我们<br>洽谈合作",
+
+        ctaDesc: "我们愿意建立长期稳定的供应合作关系。如需每月最高100吨的稳定供应，我们随时准备与您共同成长。",
+
+        ctaIcon1: "最终供货量",
+        ctaIcon2: "价格方案",
+        ctaIcon3: "交货时间",
+        ctaIcon4: "实地考察",
+
+        footerDesc: "为全球客户提供来自印度尼西亚农户的高品质诺丽果。",
+
+        offerTitle: "需要报价？",
+
+        offerDesc: "立即联系我们，获取产品信息及最佳报价。",
+
+        footerWhatsapp: "WhatsApp 联系"
+
+    },
 
 };
 
@@ -427,6 +535,13 @@ function changeLanguage(lang){
 
     }
 
+    document.body.classList.remove("zh");
+
+    if(lang === "zh"){
+        document.body.classList.add("zh");
+        cert.classList.add("zh");
+    }
+
 }
 
 window.onload=()=>{
@@ -436,4 +551,6 @@ window.onload=()=>{
     changeLanguage(savedLanguage);
 
 }
+
+
 
