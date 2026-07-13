@@ -48,13 +48,54 @@ const translations = {
         why6Desc: "Transparan, profesional, dan siap tumbuh bersama.",
         productTitle:"PRODUK KAMI",
 
-        freshTitle:"Buah Mengkudu Segar",
+        freshTitle:"Standar Buah Mengkudu",
 
         fresh1:"Matang fisiologis",
-        fresh2:"Bersih dan bebas residu",
+        fresh2:"Bersih, bebas kimia, maupun residu berbahaya",
         fresh3:"Tidak busuk & tidak memar",
-        fresh4:"Warna putih merata",
-        fresh5:"Kirim maksimal 24 jam setelah panen",
+        fresh4:"Buah berwarna putih merata",
+        fresh5:"Pengiriman maksimal 24 jam",
+
+        capacityTitle:"KAPASITAS KONSOLIDASI",
+
+        capacityDesc:"Peningkatan kapasitas bisa mengikuti komitmen kontrak pembelian, dengan pengiriman maksimal 24 jam dari panen.",
+
+        capacityStage1:"Tahap Awal (Stabilisasi)",
+        capacityStage2:"Tahap Berkala (Rutin)",
+        capacityStage3:"Tahap Penuh (Kontrak)",
+
+        capacity40:"40 Ton / Bulan",
+        capacity60:"60 Ton / Bulan",
+        capacity100:"100 Ton / Bulan",
+
+        capacityNote:"Pengiriman maksimal 24 jam dari panen.",
+
+        commitmentTitle:"KOMITMEN KAMI",
+
+        commitment1:"Pengembangan sistem berkelanjutan",
+        commitment2:"Siap audit dan verifikasi lapangan",
+        commitment3:"Transparansi lahan",
+        commitment4:"Stabilitas volume",
+        commitment5:"Sumber multi wilayah untuk mengurangi risiko gagal panen",
+        commitment6:"Komitmen jangka panjang dengan petani",
+        commitment7:"Struktur harga stabil",
+
+        ctaTitle: "KITA TERBUKA<br>UNTUK BERDISKUSI",
+
+        ctaDesc: "Kami siap membangun sistem pasokan jangka panjang. Jika buyer membutuhkan stabilitas hingga 100 Ton per bulan, kami selalu siap tumbuh bersama.",
+
+        ctaIcon1: "Volume Final",
+        ctaIcon2: "Skema Harga",
+        ctaIcon3: "Timeline Pengiriman",
+        ctaIcon4: "Kunjungan Lapangan",
+
+        footerDesc: "Menyediakan buah mengkudu berkualitas tinggi dari petani Indonesia untuk dunia.",
+
+        offerTitle: "Butuh Penawaran?",
+
+        offerDesc: "Hubungi kami sekarang untuk mendapatkan informasi produk dan harga terbaik.",
+
+        footerWhatsapp: "Chat WhatsApp",
 
     },
 
@@ -107,13 +148,53 @@ const translations = {
         why6Desc: "Transparent, professional, and committed to growing together.",
         productTitle:"OUR PRODUCTS",
 
-        freshTitle:"Fresh Noni Fruit",
+        freshTitle:"Noni Fruit Standards",
 
         fresh1:"Physiologically ripe",
-        fresh2:"Clean and residue-free",
+        fresh2:"Clean, free from chemicals and harmful residues",
         fresh3:"Free from bruises and damage",
-        fresh4:"Uniform creamy-white color",
-        fresh5:"Delivered within 24 hours after harvest",
+        fresh4:"Uniform creamy-white fruit color",
+        fresh5:"Maximum delivery within 24 hours",
+
+        capacityTitle:"CONSOLIDATION CAPACITY",
+
+        capacityDesc:"Capacity expansion can be adjusted according to the purchase contract commitment, with delivery completed within a maximum of 24 hours after harvest.",
+
+        capacityStage1:"Initial Stage (Stabilization)",
+        capacityStage2:"Regular Stage",
+        capacityStage3:"Full Contract Stage",
+
+        capacity40:"40 Tons / Month",
+        capacity60:"60 Tons / Month",
+        capacity100:"100 Tons / Month",
+
+        capacityNote:"Maximum delivery within 24 hours after harvest.",
+
+        commitmentTitle:"OUR COMMITMENT",
+
+        commitment1:"Sustainable farming system development",
+        commitment2:"Ready for field audits and verification",
+        commitment3:"Land transparency",
+        commitment4:"Stable production volume",
+        commitment5:"Multi-region sourcing to reduce crop failure risk",
+        commitment6:"Long-term commitment with farmers",
+        commitment7:"Stable pricing structure",
+        ctaTitle: "WE ARE OPEN<br>TO DISCUSSION",
+
+        ctaDesc: "We are ready to establish a long-term supply partnership. If buyers require a stable supply of up to 100 tons per month, we are always ready to grow together.",
+
+        ctaIcon1: "Final Volume",
+        ctaIcon2: "Pricing Scheme",
+        ctaIcon3: "Delivery Timeline",
+        ctaIcon4: "Site Visit",
+
+        footerDesc: "Providing premium-quality noni fruit from Indonesian farmers to customers around the world.",
+
+        offerTitle: "Need a Quotation?",
+
+        offerDesc: "Contact us today for product information and the best pricing.",
+
+        footerWhatsapp: "Chat on WhatsApp",
     },
 
     ko: {
@@ -165,13 +246,54 @@ const translations = {
         why6Desc: "투명하고 전문적인 장기 협력.",
         productTitle:"제품 소개",
 
-        freshTitle:"신선한 노니",
+        freshTitle:"노니 과일 품질 기준",
 
         fresh1:"적정 숙성",
-        fresh2:"깨끗하고 잔류물 없음",
+        fresh2:"깨끗하며 화학물질 및 유해 잔류물이 없음",
         fresh3:"멍이나 손상 없음",
-        fresh4:"균일한 흰색",
-        fresh5:"수확 후 24시간 이내 배송",
+        fresh4:"과일 전체가 균일한 흰색",
+        fresh5:"최대 24시간 이내 배송",
+
+        capacityTitle:"생산 통합 능력",
+
+        capacityDesc:"구매 계약 약정에 따라 공급 용량을 확대할 수 있으며, 수확 후 최대 24시간 이내에 배송이 이루어집니다.",
+
+        capacityStage1:"초기 단계 (안정화)",
+        capacityStage2:"정기 공급 단계",
+        capacityStage3:"계약 공급 단계",
+
+        capacity40:"월 40톤",
+        capacity60:"월 60톤",
+        capacity100:"월 100톤",
+
+        capacityNote:"수확 후 최대 24시간 이내 배송.",
+
+        commitmentTitle:"우리의 약속",
+
+        commitment1:"지속 가능한 생산 시스템 구축",
+        commitment2:"현장 감사 및 검증 지원",
+        commitment3:"농지 운영의 투명성",
+        commitment4:"안정적인 공급량",
+        commitment5:"다지역 공급망으로 작황 위험 최소화",
+        commitment6:"농가와의 장기 협력",
+        commitment7:"안정적인 가격 정책",
+
+        ctaTitle: "함께<br>이야기해 보세요",
+
+        ctaDesc: "장기적인 공급 파트너십을 구축할 준비가 되어 있습니다. 월 최대 100톤의 안정적인 공급이 필요하시다면 언제든 함께 성장할 준비가 되어 있습니다.",
+
+        ctaIcon1: "최종 물량",
+        ctaIcon2: "가격 조건",
+        ctaIcon3: "배송 일정",
+        ctaIcon4: "현장 방문",
+
+        footerDesc: "인도네시아 농가의 고품질 노니를 전 세계에 공급합니다.",
+
+        offerTitle: "견적이 필요하신가요?",
+
+        offerDesc: "제품 정보와 최적의 가격을 지금 문의해 보세요.",
+
+        footerWhatsapp: "WhatsApp 채팅",
     },
 
     hi: {
@@ -223,13 +345,54 @@ const translations = {
         why6Desc: "पारदर्शी, पेशेवर और दीर्घकालिक सहयोग।",
         productTitle:"हमारे उत्पाद",
 
-        freshTitle:"ताज़ा नोनी फल",
+        freshTitle:"नोनी फल गुणवत्ता मानक",
 
         fresh1:"पूर्ण रूप से पका हुआ",
-        fresh2:"स्वच्छ और अवशेष रहित",
+        fresh2:"स्वच्छ, रसायनों और हानिकारक अवशेषों से मुक्त",
         fresh3:"बिना चोट और खराबी",
-        fresh4:"समान सफेद रंग",
-        fresh5:"कटाई के 24 घंटे के भीतर भेजा गया",
+        fresh4:"फल का रंग समान रूप से सफेद",
+        fresh5:"अधिकतम 24 घंटे के भीतर डिलीवरी",
+
+        capacityTitle:"आपूर्ति क्षमता",
+
+        capacityDesc:"क्षमता में वृद्धि खरीद अनुबंध की प्रतिबद्धता के अनुसार की जा सकती है, तथा फसल कटाई के बाद अधिकतम 24 घंटे के भीतर आपूर्ति की जाती है।",
+
+        capacityStage1:"प्रारंभिक चरण (स्थिरीकरण)",
+        capacityStage2:"नियमित चरण",
+        capacityStage3:"पूर्ण अनुबंध चरण",
+
+        capacity40:"40 टन / माह",
+        capacity60:"60 टन / माह",
+        capacity100:"100 टन / माह",
+
+        capacityNote:"कटाई के 24 घंटे के भीतर अधिकतम डिलीवरी।",
+
+        commitmentTitle:"हमारी प्रतिबद्धता",
+
+        commitment1:"सतत कृषि प्रणाली का विकास",
+        commitment2:"फील्ड ऑडिट एवं सत्यापन के लिए तैयार",
+        commitment3:"भूमि की पारदर्शिता",
+        commitment4:"स्थिर उत्पादन मात्रा",
+        commitment5:"फसल जोखिम कम करने हेतु बहु-क्षेत्रीय स्रोत",
+        commitment6:"किसानों के साथ दीर्घकालिक साझेदारी",
+        commitment7:"स्थिर मूल्य संरचना",
+
+        ctaTitle: "हम चर्चा के लिए<br>तैयार हैं",
+
+        ctaDesc: "हम दीर्घकालिक आपूर्ति साझेदारी बनाने के लिए तैयार हैं। यदि आपको प्रति माह 100 टन तक की स्थिर आपूर्ति चाहिए, तो हम आपके साथ आगे बढ़ने के लिए सदैव तैयार हैं।",
+
+        ctaIcon1: "अंतिम मात्रा",
+        ctaIcon2: "मूल्य योजना",
+        ctaIcon3: "डिलीवरी समयरेखा",
+        ctaIcon4: "साइट विज़िट",
+
+        footerDesc: "इंडोनेशियाई किसानों से उच्च गुणवत्ता वाले नोनी फल पूरी दुनिया तक पहुँचाते हैं।",
+
+        offerTitle: "क्या आपको मूल्य प्रस्ताव चाहिए?",
+
+        offerDesc: "उत्पाद जानकारी और सर्वोत्तम मूल्य के लिए आज ही हमसे संपर्क करें।",
+
+        footerWhatsapp: "WhatsApp पर चैट करें",
     }
 
 };
