@@ -2834,11 +2834,11 @@ width:100%;
 
 .commitment h2{
 
-    font-size:42px;
+    font-size:35px;
 
     font-weight:800;
 
-    margin-bottom:26px;
+    margin-bottom:11px;
 
     color:white;
 
@@ -2864,11 +2864,11 @@ width:100%;
 
     display:flex;
 
-    align-items:flex-start;
+    align-items: center;
 
     gap:14px;
 
-    font-size:19px;
+    font-size:15px;
 
     line-height:1.6;
 
@@ -2966,25 +2966,25 @@ width:100%;
 
 .capacity-info h2{
 
-    font-size:46px;
+    font-size:35px;
 
     font-weight:800;
 
     color:#0E4C29;
 
-    margin-bottom:16px;
+    margin-bottom:12px;
 
 }
 
 .capacity-info p{
 
-    font-size:18px;
+    font-size:14px;
 
     line-height:1.7;
 
     color:#555;
 
-    margin-bottom:30px;
+    margin-bottom:12px;
 
 }
 
@@ -3002,12 +3002,12 @@ width:100%;
 }
 
 .progress-text span{
-    font-size:18px;
+    font-size:14px;
     color:#333;
 }
 
 .progress-text strong{
-    font-size:26px;
+    font-size:20px;
     font-weight:800;
     color:#0E4C29;
 }
