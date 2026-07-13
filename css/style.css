@@ -2119,7 +2119,7 @@ WHY SECTION
 
     text-align:center;
 
-    margin-bottom:30px;
+    margin-bottom:-2%;
 
 }
 
@@ -3448,15 +3448,41 @@ CAPACITY MOBILE
 }
 
 .footer-wa{
-
+    display:flex;
+    align-items:center;
     justify-content:center;
+    gap:10px;
+
+    background:linear-gradient(135deg,#28b446,#1d8b37);
+    color:#fff;
+
+    padding:16px 28px;
+
+    border-radius:999px;
+
+    font-weight:700;
+    font-size:16px;
 
     white-space:nowrap;
 
-    height:56px;
+    box-shadow:0 12px 25px rgba(29,139,55,.25);
 
-    font-weight:700;
+    transition:.3s;
+}
 
+.footer-wa:hover{
+    transform:translateY(-3px);
+    box-shadow:0 18px 35px rgba(29,139,55,.35);
+    background:linear-gradient(135deg,#2dc44c,#22923b);
+}
+
+.footer-wa i{
+    font-size:24px;
+    color:#fff;
+}
+
+.footer-wa span{
+    color:#fff;
 }
 
 .cta-leaf-left{
@@ -3812,15 +3838,21 @@ CAPACITY MOBILE
     font-size:13px;
 }
 
-.footer-wa{
-    width:100%;
-    height:52px;
-}
-
 .cta-leaf-left,
 .cta-leaf-right{
     width:80px;
     opacity:.35;
+}
+
+}
+
+@media(max-width:768px){
+
+.footer-wa{
+    width:100%;
+    max-width:320px;
+    margin:auto;
+    height:56px;
 }
 
 }
