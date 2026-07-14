@@ -399,9 +399,104 @@ MOBILE
 
 .about-hero{
 
-    padding-top:140px;
+    position:relative;
 
-    padding-bottom:70px;
+    padding:120px 0 70px;
+
+    overflow:hidden;
+
+}
+
+.about-photo{
+
+    position:absolute;
+
+    inset:0;
+
+    width:100%;
+
+    height:100%;
+
+    left:0;
+
+    object-fit:cover;
+
+    object-position:center;
+
+    border-radius:0;
+
+}
+
+.about-image::after{
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background:rgba(255,255,255,.74);
+
+    z-index:2;
+
+}
+
+.about-fade{
+
+    display:none;
+
+}
+
+.about-content{
+
+    position:relative;
+
+    z-index:10;
+
+    width:100%;
+
+    text-align:center;
+
+    padding:0 25px;
+
+}
+
+.about-content h1{
+
+    width:auto;
+
+    font-size:46px;
+
+}
+
+.about-content h2{
+
+    font-size:28px;
+
+}
+
+.about-content p{
+
+    max-width:500px;
+
+    margin:25px auto 35px;
+
+}
+
+.about-btn{
+
+    width:auto;
+
+    padding:16px 34px;
+
+}
+
+.organic-card,
+.organic-badge,
+.leaf,
+.about-fade{
+
+    display:none;
 
 }
 
@@ -433,7 +528,21 @@ MOBILE
 
 .about-image{
 
-    margin-top:30px;
+    position:absolute;
+
+    inset:0;
+
+    width:100%;
+
+    height:100%;
+
+    margin:0;
+
+    right:auto;
+
+    top:0;
+
+    overflow:hidden;
 
 }
 
@@ -468,6 +577,29 @@ MOBILE
 
     width:50px;
 
+}
+
+.about-container{
+
+    min-height:650px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+}
+
+.about-image > img:first-child {
+  position: relative;
+  width: 115%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  left: -56px;
+  border-radius: 0;
+  top: 46px;
 }
 
 }
