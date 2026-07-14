@@ -3596,24 +3596,26 @@ CAPACITY MOBILE
 }
 
 .navbar .container{
-    
+
     max-width:1320px;
-
-    position:absolute;
-
-    left:50%;
-
-    transform:translateX(-50%);
 
     width:100%;
 
-    padding:0 20px;
+    margin:auto;
 
     display:flex;
 
+    justify-content:space-between;
+
     align-items:center;
 
-    justify-content:space-between;
+    position:relative;
+
+    left:auto;
+    top:auto;
+    transform:none;
+
+    padding:0 20px;
 
 }
 
@@ -3626,12 +3628,6 @@ CAPACITY MOBILE
     margin:0 auto;
 
     position:relative;
-
-    left:auto;
-
-    top:auto;
-
-    transform:none;
 
 }
 
@@ -3881,5 +3877,6 @@ CAPACITY MOBILE
 }
 
 body.zh {
+
     font-family: "Noto Sans SC", "Inter", sans-serif;
 }
