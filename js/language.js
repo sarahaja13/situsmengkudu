@@ -96,6 +96,76 @@ const translations = {
         offerDesc: "Hubungi kami sekarang untuk mendapatkan informasi produk dan harga terbaik.",
 
         footerWhatsapp: "Chat WhatsApp",
+        aboutTitle: "TENTANG KAMI",
+
+        aboutSubtitle:
+        "Mitra Andal, Kualitas Alami,<br>Untuk Masa Depan Sehat",
+
+        aboutDesc:
+        "PT Ade Pratama Naturindo berkomitmen menjadi penyedia buah mengkudu segar dan kering berkualitas tinggi dari petani Indonesia dengan sistem pengelolaan modern, terstruktur, dan berkelanjutan.",
+
+        aboutOrganic:
+        "Produk organik<br>untuk hidup sehat<br>dan bumi lestari",
+
+        whoTitle:"SIAPA KAMI?",
+
+        whoDesc:"Kami adalah jaringan konsolidasi petani mengkudu di berbagai provinsi strategis Indonesia. Dengan sistem pengumpulan yang terstruktur, kontrol kualitas yang ketat, serta manajemen suplai jangka panjang, kami siap menjadi mitra supply yang stabil dan terpercaya di pasar lokal maupun global.",
+        statTitle1: "Jaringan Petani",
+        statValue1: "1.000+",
+        statDesc1: "Petani mitra aktif",
+
+        statTitle2: "Wilayah",
+        statValue2: "4",
+        statDesc2: "Provinsi strategis",
+
+        statTitle3: "Kapasitas Maksimal",
+        statValue3: "100 Ton",
+        statDesc3: "Per bulan",
+
+        statTitle4: "Komitmen Kami",
+        statValue4: "100%",
+        statDesc4: "Kualitas alami",
+
+        valuesTitle: "NILAI & KOMITMEN KAMI",
+
+        value1Title: "Alami & Sehat",
+        value1Desc: "Menyediakan produk alami tanpa bahan kimia berbahaya.",
+
+        value2Title: "Kualitas Terjamin",
+        value2Desc: "Kontrol kualitas ketat dari panen hingga pengiriman.",
+
+        value3Title: "Kemitraan Berkelanjutan",
+        value3Desc: "Tumbuh bersama petani lokal dalam jangka panjang.",
+
+        value4Title: "Transparansi",
+        value4Desc: "Proses terbuka, dapat diaudit, dan dipertanggungjawabkan.",
+
+        value5Title: "Berorientasi Global",
+        value5Desc: "Siap memenuhi standar pasar lokal maupun internasional.",
+
+        processTitle: "PROSES KAMI",
+
+        process1Title: "1. Konsolidasi Petani",
+        process1Desc: "Bekerja sama dengan petani pilihan di berbagai wilayah.",
+
+        process2Title: "2. Panen Berkualitas",
+        process2Desc: "Panen saat buah matang fisiologis dengan standar ketat.",
+
+        process3Title: "3. Kontrol & Sortasi",
+        process3Desc: "Pemeriksaan kualitas dan sortasi sebelum dikemas.",
+
+        process4Title: "4. Pengemasan",
+        process4Desc: "Dikemas higienis untuk menjaga kesegaran produk.",
+
+        process5Title: "5. Pengiriman Cepat",
+        process5Desc: "Dikirim maksimal 24 jam setelah panen ke tujuan Anda.",
+        certTitle:"SERTIFIKASI & STANDAR",
+
+        certDesc:"Kami berkomitmen menghadirkan produk yang aman, berkualitas, dan ramah lingkungan.",
+
+        futureTitle:"BERSAMA MENUJU MASA DEPAN YANG LEBIH BAIK",
+
+        futureDesc:"Kami percaya bahwa kualitas terbaik berawal dari alam dan kerja sama yang baik. Mari tumbuh bersama menuju masa depan yang lebih sehat dan berkelanjutan.",
 
     },
 
@@ -195,6 +265,76 @@ const translations = {
         offerDesc: "Contact us today for product information and the best pricing.",
 
         footerWhatsapp: "Chat on WhatsApp",
+        aboutTitle: "ABOUT US",
+
+        aboutSubtitle:
+        "Trusted Partner,<br>Natural Quality,<br>for a Healthier Future",
+
+        aboutDesc:
+        "PT Ade Pratama Naturindo is committed to supplying premium fresh and dried noni fruits from Indonesian farmers through modern, structured, and sustainable management.",
+
+        aboutOrganic:
+        "Organic products<br>for healthier living<br>and a greener planet",
+
+        whoTitle:"WHO ARE WE?",
+
+        whoDesc:"We are a consolidated network of noni farmers across strategic regions of Indonesia. Through a structured collection system, strict quality control, and long-term supply management, we are committed to becoming a reliable and stable supply partner for both domestic and international markets.",
+        statTitle1: "Farmer Network",
+        statValue1: "1,000+",
+        statDesc1: "Active partner farmers",
+
+        statTitle2: "Coverage Area",
+        statValue2: "4",
+        statDesc2: "Strategic provinces",
+
+        statTitle3: "Maximum Capacity",
+        statValue3: "100 Tons",
+        statDesc3: "Per month",
+
+        statTitle4: "Our Commitment",
+        statValue4: "100%",
+        statDesc4: "Natural quality",
+
+        valuesTitle: "OUR VALUES & COMMITMENT",
+
+        value1Title: "Natural & Healthy",
+        value1Desc: "Providing natural products free from harmful chemicals.",
+
+        value2Title: "Guaranteed Quality",
+        value2Desc: "Strict quality control from harvest to delivery.",
+
+        value3Title: "Sustainable Partnership",
+        value3Desc: "Growing together with local farmers through long-term cooperation.",
+
+        value4Title: "Transparency",
+        value4Desc: "Open, auditable, and fully accountable processes.",
+
+        value5Title: "Global Vision",
+        value5Desc: "Ready to meet both local and international market standards.",
+
+        processTitle: "OUR PROCESS",
+
+        process1Title: "1. Farmer Consolidation",
+        process1Desc: "Partnering with selected farmers across various regions.",
+
+        process2Title: "2. Optimal Harvesting",
+        process2Desc: "Harvested only when the fruit reaches optimal physiological maturity.",
+
+        process3Title: "3. Quality Control & Sorting",
+        process3Desc: "Every fruit is inspected and sorted before packaging.",
+
+        process4Title: "4. Hygienic Packaging",
+        process4Desc: "Packed hygienically to preserve freshness and product quality.",
+
+        process5Title: "5. Fast Delivery",
+        process5Desc: "Delivered within a maximum of 24 hours after harvest.",
+        certTitle:"CERTIFICATIONS & STANDARDS",
+
+        certDesc:"We are committed to delivering products that are safe, high-quality, and environmentally friendly.",
+
+        futureTitle:"BUILDING A BETTER FUTURE TOGETHER",
+
+        futureDesc:"We believe that the best quality begins with nature and strong partnerships. Let us grow together toward a healthier and more sustainable future.",
     },
 
     ko: {
@@ -294,6 +434,78 @@ const translations = {
         offerDesc: "제품 정보와 최적의 가격을 지금 문의해 보세요.",
 
         footerWhatsapp: "WhatsApp 채팅",
+
+        aboutTitle: "회사 소개",
+
+        aboutSubtitle:
+        "신뢰할 수 있는 파트너,<br>자연 그대로의 품질,<br>더 건강한 미래를 위해",
+
+        aboutDesc:
+        "PT Ade Pratama Naturindo는 현대적이고 체계적이며 지속 가능한 관리 시스템을 통해 인도네시아 농가의 고품질 생노니와 건노니를 공급합니다.",
+
+        aboutOrganic:
+        "유기농 제품으로<br>건강한 삶과<br>지속 가능한 지구를",
+
+        whoTitle:"우리는 누구인가?",
+
+        whoDesc:"우리는 인도네시아 여러 전략 지역의 노니 농가를 통합한 네트워크입니다. 체계적인 수집 시스템, 엄격한 품질 관리, 그리고 장기적인 공급 관리를 통해 국내외 시장에서 신뢰받는 안정적인 공급 파트너가 되고자 합니다.",
+
+        statTitle1: "농가 네트워크",
+        statValue1: "1,000+",
+        statDesc1: "협력 농가",
+
+        statTitle2: "지역",
+        statValue2: "4",
+        statDesc2: "전략적 생산 지역",
+
+        statTitle3: "최대 공급 능력",
+        statValue3: "100톤",
+        statDesc3: "월 기준",
+
+        statTitle4: "우리의 약속",
+        statValue4: "100%",
+        statDesc4: "천연 품질",
+
+        valuesTitle: "우리의 가치와 약속",
+
+        value1Title: "자연 & 건강",
+        value1Desc: "유해 화학물질 없이 자연 그대로의 제품을 제공합니다.",
+
+        value2Title: "품질 보증",
+        value2Desc: "수확부터 배송까지 엄격한 품질 관리를 실시합니다.",
+
+        value3Title: "지속 가능한 파트너십",
+        value3Desc: "지역 농가와 함께 장기적인 성장을 추구합니다.",
+
+        value4Title: "투명성",
+        value4Desc: "모든 과정은 투명하며 감사와 검증이 가능합니다.",
+
+        value5Title: "글로벌 지향",
+        value5Desc: "국내외 시장의 품질 기준을 충족할 준비가 되어 있습니다.",
+
+        processTitle: "생산 및 공급 과정",
+
+        process1Title: "1. 농가 통합",
+        process1Desc: "여러 지역의 우수 농가와 협력합니다.",
+
+        process2Title: "2. 품질 수확",
+        process2Desc: "과일이 생리적으로 완전히 익었을 때만 수확합니다.",
+
+        process3Title: "3. 품질 검사 및 선별",
+        process3Desc: "포장 전 엄격한 품질 검사와 선별을 진행합니다.",
+
+        process4Title: "4. 위생 포장",
+        process4Desc: "신선도를 유지하기 위해 위생적으로 포장합니다.",
+
+        process5Title: "5. 신속 배송",
+        process5Desc: "수확 후 최대 24시간 이내에 배송합니다.",
+        certTitle:"인증 및 품질 기준",
+
+        certDesc:"안전하고 고품질이며 친환경적인 제품을 제공하기 위해 최선을 다합니다.",
+
+        futureTitle:"더 나은 미래를 함께 만들어 갑니다",
+
+        futureDesc:"최고의 품질은 자연과 협력에서 시작된다고 믿습니다. 더 건강하고 지속 가능한 미래를 함께 만들어 갑시다.",
     },
 
     hi: {
@@ -393,6 +605,77 @@ const translations = {
         offerDesc: "उत्पाद जानकारी और सर्वोत्तम मूल्य के लिए आज ही हमसे संपर्क करें।",
 
         footerWhatsapp: "WhatsApp पर चैट करें",
+
+        aboutTitle: "हमारे बारे में",
+
+        aboutSubtitle:
+        "विश्वसनीय साझेदार,<br>प्राकृतिक गुणवत्ता,<br>स्वस्थ भविष्य के लिए",
+
+        aboutDesc:
+        "PT Ade Pratama Naturindo आधुनिक, सुव्यवस्थित और सतत प्रबंधन प्रणाली के माध्यम से इंडोनेशियाई किसानों से उच्च गुणवत्ता वाले ताज़े एवं सूखे नोनी फल उपलब्ध कराने के लिए प्रतिबद्ध है।",
+
+        aboutOrganic:
+        "जैविक उत्पाद<br>स्वस्थ जीवन और<br>हरित पृथ्वी के लिए",
+
+        whoTitle:"हम कौन हैं?",
+
+        whoDesc:"हम इंडोनेशिया के विभिन्न प्रमुख क्षेत्रों में स्थित नोनी किसानों का एक संगठित नेटवर्क हैं। सुव्यवस्थित संग्रह प्रणाली, कड़े गुणवत्ता नियंत्रण और दीर्घकालिक आपूर्ति प्रबंधन के माध्यम से हम स्थानीय तथा वैश्विक बाजारों के लिए एक विश्वसनीय और स्थिर आपूर्ति साझेदार बनने के लिए प्रतिबद्ध हैं।",
+        statTitle1: "किसान नेटवर्क",
+        statValue1: "1,000+",
+        statDesc1: "सक्रिय साझेदार किसान",
+
+        statTitle2: "क्षेत्र",
+        statValue2: "4",
+        statDesc2: "रणनीतिक प्रांत",
+
+        statTitle3: "अधिकतम क्षमता",
+        statValue3: "100 टन",
+        statDesc3: "प्रति माह",
+
+        statTitle4: "हमारी प्रतिबद्धता",
+        statValue4: "100%",
+        statDesc4: "प्राकृतिक गुणवत्ता",
+
+        valuesTitle: "हमारे मूल्य और प्रतिबद्धता",
+
+        value1Title: "प्राकृतिक एवं स्वस्थ",
+        value1Desc: "हानिकारक रसायनों से मुक्त प्राकृतिक उत्पाद प्रदान करना।",
+
+        value2Title: "गुणवत्ता की गारंटी",
+        value2Desc: "कटाई से लेकर डिलीवरी तक सख्त गुणवत्ता नियंत्रण।",
+
+        value3Title: "सतत साझेदारी",
+        value3Desc: "स्थानीय किसानों के साथ दीर्घकालिक विकास।",
+
+        value4Title: "पारदर्शिता",
+        value4Desc: "खुली, ऑडिट योग्य और जवाबदेह प्रक्रियाएँ।",
+
+        value5Title: "वैश्विक दृष्टिकोण",
+        value5Desc: "स्थानीय और अंतरराष्ट्रीय बाज़ार मानकों को पूरा करने के लिए तैयार।",
+
+        processTitle: "हमारी प्रक्रिया",
+
+        process1Title: "1. किसान समेकन",
+        process1Desc: "विभिन्न क्षेत्रों के चयनित किसानों के साथ साझेदारी।",
+
+        process2Title: "2. गुणवत्तापूर्ण कटाई",
+        process2Desc: "फल के पूर्ण प्राकृतिक रूप से पकने पर ही कटाई की जाती है।",
+
+        process3Title: "3. गुणवत्ता जाँच एवं छँटाई",
+        process3Desc: "पैकिंग से पहले प्रत्येक फल की जाँच और छँटाई की जाती है।",
+
+        process4Title: "4. स्वच्छ पैकेजिंग",
+        process4Desc: "ताज़गी बनाए रखने के लिए स्वच्छ तरीके से पैक किया जाता है।",
+
+        process5Title: "5. तेज़ डिलीवरी",
+        process5Desc: "कटाई के अधिकतम 24 घंटे के भीतर भेजा जाता है।",
+        certTitle:"प्रमाणन एवं मानक",
+
+        certDesc:"हम सुरक्षित, उच्च गुणवत्ता वाले और पर्यावरण के अनुकूल उत्पाद प्रदान करने के लिए प्रतिबद्ध हैं।",
+
+        futureTitle:"आइए मिलकर बेहतर भविष्य की ओर बढ़ें",
+
+        futureDesc:"हम मानते हैं कि सर्वोत्तम गुणवत्ता प्रकृति और मजबूत साझेदारी से शुरू होती है। आइए स्वस्थ और टिकाऊ भविष्य के लिए साथ मिलकर आगे बढ़ें।",
     },
 
     zh: {
@@ -499,8 +782,78 @@ const translations = {
 
         offerDesc: "立即联系我们，获取产品信息及最佳报价。",
 
-        footerWhatsapp: "WhatsApp 联系"
+        footerWhatsapp: "WhatsApp 联系",
+        aboutTitle: "关于我们",
 
+        aboutSubtitle:
+        "值得信赖的合作伙伴，<br>天然品质，<br>共创健康未来",
+
+        aboutDesc:
+        "PT Ade Pratama Naturindo 致力于通过现代化、规范化和可持续的管理体系，为全球客户提供来自印度尼西亚农户的优质新鲜及干制诺丽果。",
+
+        aboutOrganic:
+        "有机产品<br>健康生活<br>绿色未来",
+
+        whoTitle:"我们是谁？",
+
+        whoDesc:"我们是覆盖印度尼西亚多个战略地区的诺丽果种植者联盟。凭借完善的收购体系、严格的质量控制以及长期供应管理，我们致力于成为国内外市场值得信赖、稳定可靠的供应合作伙伴。",
+
+        statTitle1: "合作农户网络",
+        statValue1: "1,000+",
+        statDesc1: "合作农户",
+
+        statTitle2: "覆盖区域",
+        statValue2: "4",
+        statDesc2: "重点省份",
+
+        statTitle3: "最大产能",
+        statValue3: "100 吨",
+        statDesc3: "每月",
+
+        statTitle4: "我们的承诺",
+        statValue4: "100%",
+        statDesc4: "天然品质",
+
+        valuesTitle: "我们的价值观与承诺",
+
+        value1Title: "天然健康",
+        value1Desc: "提供不含有害化学物质的天然产品。",
+
+        value2Title: "品质保障",
+        value2Desc: "从采收到发货实行严格的质量控制。",
+
+        value3Title: "可持续合作",
+        value3Desc: "与当地农户建立长期稳定的合作关系。",
+
+        value4Title: "透明公开",
+        value4Desc: "所有流程公开透明，可审计、可追溯。",
+
+        value5Title: "全球导向",
+        value5Desc: "符合本地及国际市场的质量标准。",
+
+        processTitle: "我们的流程",
+
+        process1Title: "1. 农户整合",
+        process1Desc: "与多个地区的优质农户建立合作。",
+
+        process2Title: "2. 优质采收",
+        process2Desc: "果实达到自然成熟标准后再进行采收。",
+
+        process3Title: "3. 质量检测与分级",
+        process3Desc: "包装前进行严格的质量检测和分级。",
+
+        process4Title: "4. 卫生包装",
+        process4Desc: "采用卫生包装，保持产品新鲜品质。",
+
+        process5Title: "5. 快速发货",
+        process5Desc: "采收后24小时内完成发货。",
+        certTitle:"认证与质量标准",
+
+        certDesc:"我们致力于提供安全、高品质、环保的产品。",
+
+        futureTitle:"携手迈向更美好的未来",
+
+        futureDesc:"我们相信，卓越品质源于自然与合作。让我们携手共创更加健康、更加可持续的未来。",
     },
 
 };
