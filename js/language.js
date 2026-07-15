@@ -253,6 +253,63 @@ const translations = {
         productCtaFeature4: "Layanan Profesional",
 
         productCtaButton: "Hubungi Kami Sekarang",
+        advHeroTag: "MENGAPA MEMILIH",
+
+        advHeroTitle1: "PT ADE PRATAMA",
+        advHeroTitle2: "NATURINDO?",
+
+        advHeroDesc:
+        "Kami berkomitmen menghadirkan buah mengkudu berkualitas tinggi dengan sistem pengelolaan profesional, transparan, dan berkelanjutan untuk membangun kemitraan jangka panjang yang saling menguntungkan.",
+
+        advFeature1Title: "Kualitas Terjamin",
+        advFeature2Title: "Kemitraan Berkelanjutan",
+        advFeature3Title: "100% Alami & Sehat",
+        advFeature4Title: "Terpercaya & Profesional",
+        advantagesTitle: "KEUNGGULAN KAMI",
+
+        advCard1Title: "KUALITAS TERBAIK",
+        advCard1Desc: "Buah mengkudu dipilih dengan standar ketat untuk memastikan kualitas, kesegaran, dan kandungan nutrisinya tetap optimal.",
+
+        advCard2Title: "SUMBER TERPILIH",
+        advCard2Desc: "Bekerja sama dengan petani lokal di berbagai wilayah strategis dengan menerapkan praktik pertanian terbaik dan berkelanjutan.",
+
+        advCard3Title: "PENGELOLAAN MODERN",
+        advCard3Desc: "Sistem pengelolaan modern mulai dari panen, sortasi, hingga pengiriman untuk menjaga kualitas dan ketepatan waktu.",
+
+        advCard4Title: "PENGIRIMAN CEPAT",
+        advCard4Desc: "Pengiriman maksimal 24 jam setelah panen untuk memastikan kesegaran buah sampai ke tujuan dengan aman.",
+
+        advCard5Title: "DOKUMENTASI LENGKAP",
+        advCard5Desc: "Setiap proses terdokumentasi dengan baik dan siap diaudit untuk menjamin transparansi serta akuntabilitas.",
+
+        advCard6Title: "KEMITRAAN JANGKA PANJANG",
+        advCard6Desc: "Kami percaya pada hubungan saling percaya dan tumbuh bersama untuk keberlanjutan pasokan jangka panjang.",
+        valuesBringTitle: "NILAI YANG KAMI BAWA",
+
+        valueCard1Title: "Alami & Sehat",
+        valueCard1Desc: "Tanpa bahan kimia berbahaya, aman untuk Anda dan lingkungan.",
+
+        valueCard2Title: "Terjamin Mutunya",
+        valueCard2Desc: "Standar kualitas tinggi di setiap tahap, dari kebun hingga sampai ke tangan Anda.",
+
+        valueCard3Title: "Berkelanjutan",
+        valueCard3Desc: "Mendukung petani lokal dan praktik pertanian yang ramah lingkungan.",
+
+        valueCard4Title: "Terpercaya",
+        valueCard4Desc: "Integritas dan komitmen kami adalah fondasi dari setiap kemitraan yang terjalin.",
+
+        achievementTitle: "Pencapaian Kami",
+
+        achievement1: "Petani Mitra Aktif",
+        achievement2: "Provinsi Strategis",
+        achievement3: "Kapasitas Maksimal Per Bulan",
+        achievement4: "Komitmen Kualitas",
+        advCtaTitle: "Mari Tumbuh Bersama<br>Membangun Masa Depan Sehat",
+
+        advCtaDesc:
+        "Kami siap menjadi mitra terbaik untuk kebutuhan bahan baku mengkudu berkualitas Anda.",
+
+        advCtaButton: "Hubungi Kami Sekarang",
     },
 
     en: {
@@ -508,6 +565,63 @@ const translations = {
         productCtaFeature4: "Professional Service",
 
         productCtaButton: "Contact Us Today",
+        advHeroTag: "WHY CHOOSE",
+
+        advHeroTitle1: "PT ADE PRATAMA",
+        advHeroTitle2: "NATURINDO?",
+
+        advHeroDesc:
+        "We are committed to supplying premium-quality noni fruit through professional, transparent, and sustainable management systems, building long-term partnerships based on trust and mutual growth.",
+
+        advFeature1Title: "Guaranteed Quality",
+        advFeature2Title: "Sustainable Partnership",
+        advFeature3Title: "100% Natural & Healthy",
+        advFeature4Title: "Trusted & Professional",
+        advantagesTitle: "OUR ADVANTAGES",
+
+        advCard1Title: "PREMIUM QUALITY",
+        advCard1Desc: "Fresh noni fruits are carefully selected under strict quality standards to ensure optimal freshness, quality, and nutritional value.",
+
+        advCard2Title: "SELECTED SOURCES",
+        advCard2Desc: "Working closely with trusted local farmers across strategic regions using sustainable and best agricultural practices.",
+
+        advCard3Title: "MODERN MANAGEMENT",
+        advCard3Desc: "Modern management system covering harvesting, sorting, and delivery to ensure consistent quality and on-time fulfillment.",
+
+        advCard4Title: "FAST DELIVERY",
+        advCard4Desc: "Delivered within a maximum of 24 hours after harvest to maintain freshness until reaching its destination.",
+
+        advCard5Title: "COMPLETE DOCUMENTATION",
+        advCard5Desc: "Every process is properly documented and audit-ready to ensure transparency and accountability.",
+
+        advCard6Title: "LONG-TERM PARTNERSHIP",
+        advCard6Desc: "We believe in building long-term partnerships based on trust, collaboration, and sustainable growth.",
+        valuesBringTitle: "OUR CORE VALUES",
+
+        valueCard1Title: "Natural & Healthy",
+        valueCard1Desc: "Free from harmful chemicals, safe for both people and the environment.",
+
+        valueCard2Title: "Guaranteed Quality",
+        valueCard2Desc: "High quality standards maintained at every stage, from the farm to your hands.",
+
+        valueCard3Title: "Sustainability",
+        valueCard3Desc: "Supporting local farmers through environmentally friendly agricultural practices.",
+
+        valueCard4Title: "Trustworthy",
+        valueCard4Desc: "Integrity and commitment are the foundation of every partnership we build.",
+
+        achievementTitle: "Our Achievements",
+
+        achievement1: "Active Partner Farmers",
+        achievement2: "Strategic Provinces",
+        achievement3: "Maximum Monthly Capacity",
+        achievement4: "Quality Commitment",
+        advCtaTitle: "Let's Grow Together<br>Building a Healthier Future",
+
+        advCtaDesc:
+        "We are ready to become your trusted partner for premium-quality noni raw material supply.",
+
+        advCtaButton: "Contact Us Today",
     },
 
     ko: {
@@ -766,6 +880,63 @@ const translations = {
         productCtaFeature4: "전문 서비스",
 
         productCtaButton: "지금 문의하기",
+        advHeroTag: "왜 선택해야 할까요?",
+
+        advHeroTitle1: "PT ADE PRATAMA",
+        advHeroTitle2: "NATURINDO?",
+
+        advHeroDesc:
+        "당사는 전문적이고 투명하며 지속 가능한 관리 시스템을 통해 최고 품질의 노니를 공급하며, 신뢰를 바탕으로 한 장기적인 파트너십을 구축하고 있습니다.",
+
+        advFeature1Title: "품질 보증",
+        advFeature2Title: "지속 가능한 파트너십",
+        advFeature3Title: "100% 천연 & 건강",
+        advFeature4Title: "신뢰와 전문성",
+        advantagesTitle: "우리의 강점",
+
+        advCard1Title: "최고 품질",
+        advCard1Desc: "엄격한 품질 기준에 따라 선별하여 신선도와 영양을 최상의 상태로 유지합니다.",
+
+        advCard2Title: "엄선된 공급원",
+        advCard2Desc: "전략적인 지역의 우수한 지역 농가와 협력하여 지속 가능한 농업 방식을 실천합니다.",
+
+        advCard3Title: "현대적인 관리 시스템",
+        advCard3Desc: "수확부터 선별, 배송까지 체계적인 관리 시스템으로 품질과 납기일을 보장합니다.",
+
+        advCard4Title: "신속한 배송",
+        advCard4Desc: "수확 후 24시간 이내에 배송하여 신선한 상태로 안전하게 전달합니다.",
+
+        advCard5Title: "완벽한 문서 관리",
+        advCard5Desc: "모든 과정은 문서화되어 있으며 감사가 가능하도록 투명하게 관리됩니다.",
+
+        advCard6Title: "장기적인 파트너십",
+        advCard6Desc: "상호 신뢰와 함께 성장하는 장기적인 협력 관계를 소중히 생각합니다.",
+        valuesBringTitle: "우리의 핵심 가치",
+
+        valueCard1Title: "천연 & 건강",
+        valueCard1Desc: "유해한 화학물질 없이 사람과 환경 모두에 안전합니다.",
+
+        valueCard2Title: "품질 보증",
+        valueCard2Desc: "농장부터 고객에게 전달될 때까지 모든 과정에서 높은 품질 기준을 유지합니다.",
+
+        valueCard3Title: "지속 가능성",
+        valueCard3Desc: "친환경 농업을 실천하는 지역 농가와 함께 성장합니다.",
+
+        valueCard4Title: "신뢰",
+        valueCard4Desc: "모든 파트너십은 신뢰와 책임감을 바탕으로 구축됩니다.",
+
+        achievementTitle: "주요 성과",
+
+        achievement1: "협력 농가",
+        achievement2: "전략적 생산 지역",
+        achievement3: "월 최대 공급 능력",
+        achievement4: "품질에 대한 약속",
+        advCtaTitle: "함께 성장하며<br>더 건강한 미래를 만듭니다",
+
+        advCtaDesc:
+        "고품질 노니 원료 공급을 위한 가장 신뢰할 수 있는 파트너가 되겠습니다.",
+
+        advCtaButton: "지금 문의하기",
     },
 
     hi: {
@@ -1023,6 +1194,63 @@ const translations = {
         productCtaFeature4: "पेशेवर सेवा",
 
         productCtaButton: "अभी संपर्क करें",
+        advHeroTag: "हमें क्यों चुनें",
+
+        advHeroTitle1: "PT ADE PRATAMA",
+        advHeroTitle2: "NATURINDO?",
+
+        advHeroDesc:
+        "हम पेशेवर, पारदर्शी और सतत प्रबंधन प्रणाली के माध्यम से उच्च गुणवत्ता वाले नोनी फल उपलब्ध कराने तथा विश्वास पर आधारित दीर्घकालिक साझेदारी बनाने के लिए प्रतिबद्ध हैं।",
+
+        advFeature1Title: "गुणवत्ता सुनिश्चित",
+        advFeature2Title: "सतत साझेदारी",
+        advFeature3Title: "100% प्राकृतिक एवं स्वस्थ",
+        advFeature4Title: "विश्वसनीय एवं पेशेवर",
+        advantagesTitle: "हमारी विशेषताएँ",
+
+        advCard1Title: "सर्वोत्तम गुणवत्ता",
+        advCard1Desc: "नोनी फलों का चयन सख्त गुणवत्ता मानकों के अनुसार किया जाता है ताकि उनकी ताज़गी, गुणवत्ता और पोषण सर्वोत्तम बना रहे।",
+
+        advCard2Title: "चयनित स्रोत",
+        advCard2Desc: "रणनीतिक क्षेत्रों के स्थानीय किसानों के साथ सर्वोत्तम और सतत कृषि पद्धतियों के माध्यम से कार्य करते हैं।",
+
+        advCard3Title: "आधुनिक प्रबंधन",
+        advCard3Desc: "कटाई, छंटाई और वितरण तक आधुनिक प्रबंधन प्रणाली गुणवत्ता और समयबद्ध आपूर्ति सुनिश्चित करती है।",
+
+        advCard4Title: "तेज़ डिलीवरी",
+        advCard4Desc: "कटाई के 24 घंटे के भीतर सुरक्षित रूप से भेजा जाता है ताकि ताज़गी बनी रहे।",
+
+        advCard5Title: "पूर्ण दस्तावेज़ीकरण",
+        advCard5Desc: "हर प्रक्रिया का उचित दस्तावेज़ीकरण किया जाता है और आवश्यकता पड़ने पर ऑडिट के लिए तैयार रहता है।",
+
+        advCard6Title: "दीर्घकालिक साझेदारी",
+        advCard6Desc: "हम विश्वास, सहयोग और सतत विकास पर आधारित दीर्घकालिक साझेदारी में विश्वास रखते हैं।",
+        valuesBringTitle: "हमारे मूल मूल्य",
+
+        valueCard1Title: "प्राकृतिक एवं स्वस्थ",
+        valueCard1Desc: "हानिकारक रसायनों से मुक्त, आपके और पर्यावरण दोनों के लिए सुरक्षित।",
+
+        valueCard2Title: "गुणवत्ता सुनिश्चित",
+        valueCard2Desc: "खेत से लेकर आपके हाथों तक हर चरण में उच्च गुणवत्ता मानकों का पालन।",
+
+        valueCard3Title: "स्थिरता",
+        valueCard3Desc: "स्थानीय किसानों और पर्यावरण-अनुकूल कृषि पद्धतियों का समर्थन।",
+
+        valueCard4Title: "विश्वसनीय",
+        valueCard4Desc: "ईमानदारी और प्रतिबद्धता हमारी प्रत्येक साझेदारी की नींव हैं।",
+
+        achievementTitle: "हमारी उपलब्धियाँ",
+
+        achievement1: "सक्रिय साझेदार किसान",
+        achievement2: "रणनीतिक प्रांत",
+        achievement3: "अधिकतम मासिक क्षमता",
+        achievement4: "गुणवत्ता के प्रति प्रतिबद्धता",
+        advCtaTitle: "आइए साथ मिलकर बढ़ें<br>एक स्वस्थ भविष्य का निर्माण करें",
+
+        advCtaDesc:
+        "हम उच्च गुणवत्ता वाले नोनी कच्चे माल की आपकी आवश्यकताओं के लिए विश्वसनीय साझेदार बनने के लिए तैयार हैं।",
+
+        advCtaButton: "अभी संपर्क करें",
     },
 
     zh: {
@@ -1288,6 +1516,63 @@ const translations = {
         productCtaFeature4: "专业服务",
 
         productCtaButton: "立即联系我们",
+        advHeroTag: "为什么选择",
+
+        advHeroTitle1: "PT ADE PRATAMA",
+        advHeroTitle2: "NATURINDO?",
+
+        advHeroDesc:
+        "我们致力于通过专业、透明、可持续的管理体系提供优质诺丽果，并与合作伙伴建立互信互利的长期合作关系。",
+
+        advFeature1Title: "品质保障",
+        advFeature2Title: "可持续合作",
+        advFeature3Title: "100% 天然健康",
+        advFeature4Title: "值得信赖 · 专业服务",
+        advantagesTitle: "我们的优势",
+
+        advCard1Title: "卓越品质",
+        advCard1Desc: "严格筛选每一颗诺丽果，确保产品的新鲜度、品质和营养价值达到最佳标准。",
+
+        advCard2Title: "精选产地",
+        advCard2Desc: "与印度尼西亚多个战略地区的优质农户合作，坚持可持续农业种植方式。",
+
+        advCard3Title: "现代化管理",
+        advCard3Desc: "从采收到分拣、包装及配送，采用现代化管理体系，确保品质稳定和准时交付。",
+
+        advCard4Title: "快速配送",
+        advCard4Desc: "采收后24小时内发货，确保产品以新鲜、安全的状态送达目的地。",
+
+        advCard5Title: "完整文件管理",
+        advCard5Desc: "所有流程均完整记录，可随时接受审核，确保透明度和可追溯性。",
+
+        advCard6Title: "长期合作伙伴关系",
+        advCard6Desc: "我们重视建立基于信任、共同成长和长期稳定合作的伙伴关系。",
+        valuesBringTitle: "我们的核心价值",
+
+        valueCard1Title: "天然健康",
+        valueCard1Desc: "不含有害化学物质，对人体和环境更加安全。",
+
+        valueCard2Title: "品质保证",
+        valueCard2Desc: "从种植到交付的每一个环节都坚持严格的品质标准。",
+
+        valueCard3Title: "可持续发展",
+        valueCard3Desc: "支持本地农户，坚持绿色环保的农业种植方式。",
+
+        valueCard4Title: "值得信赖",
+        valueCard4Desc: "诚信与承诺是我们建立每一项合作关系的基础。",
+
+        achievementTitle: "我们的成果",
+
+        achievement1: "合作农户",
+        achievement2: "战略省份",
+        achievement3: "每月最大供应能力",
+        achievement4: "品质承诺",
+        advCtaTitle: "携手共进<br>共创健康未来",
+
+        advCtaDesc:
+        "我们已准备好成为您高品质诺丽果原料供应的长期合作伙伴。",
+
+        advCtaButton: "立即联系我们",
     },
 
 };
