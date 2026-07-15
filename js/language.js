@@ -166,7 +166,93 @@ const translations = {
         futureTitle:"BERSAMA MENUJU MASA DEPAN YANG LEBIH BAIK",
 
         futureDesc:"Kami percaya bahwa kualitas terbaik berawal dari alam dan kerja sama yang baik. Mari tumbuh bersama menuju masa depan yang lebih sehat dan berkelanjutan.",
+        productFeature1Title: "100% Alami",
+        productFeature1Desc: "Tanpa bahan kimia berbahaya",
 
+        productFeature2Title: "Kualitas Terjamin",
+        productFeature2Desc: "Kontrol kualitas ketat dari hulu ke hilir",
+
+        productFeature3Title: "Pengiriman Cepat",
+        productFeature3Desc: "Maksimal 24 jam setelah panen",
+
+        productFeature4Title: "Dari Petani Lokal",
+        productFeature4Desc: "Bekerja sama dengan petani Indonesia",
+        productHeroTitle: "PRODUK KAMI",
+
+        productHeroTitle2: "MENGKUDU SEGAR",
+
+        productHeroTag: "100% ALAMI, KUALITAS TERJAMIN",
+
+        productHeroDesc:
+        "Kami menyediakan buah mengkudu segar berkualitas tinggi yang dihasilkan dari alam Indonesia dengan sistem pengelolaan modern dan berkelanjutan.",
+        freshProductTitle: "BUAH MENGKUDU SEGAR",
+
+        freshProductDesc:
+        "Buah mengkudu (Morinda citrifolia) dikenal memiliki banyak manfaat bagi kesehatan. Kami hanya memilih buah dengan kualitas terbaik yang dipanen pada waktu yang tepat untuk menjaga kesegaran, kandungan nutrisi, dan manfaatnya.",
+
+        freshCheck1: "Matang fisiologis",
+        freshCheck2: "Bersih dan bebas residu",
+        freshCheck3: "Tidak busuk & tidak memar",
+        freshCheck4: "Warna putih merata",
+        freshCheck5: "Kirim maksimal 24 jam setelah panen",
+
+        spec1Title: "Warna Buah",
+        spec1Value: "Putih Merata",
+
+        spec2Title: "Ukuran Buah",
+        spec2Value: "5–10 cm",
+
+        spec3Title: "Berat Rata-rata",
+        spec3Value: "100–200 gram",
+
+        spec4Title: "Kemasan",
+        spec4Value: "Keranjang / Kardus",
+        benefitTitle:"MANFAAT MENGKUDU",
+
+        benefit1Title:"Meningkatkan Daya Tahan Tubuh",
+        benefit1Desc:"Kandungan antioksidan tinggi membantu sistem imun.",
+
+        benefit2Title:"Detoksifikasi Tubuh Alami",
+        benefit2Desc:"Membantu membersihkan tubuh dari racun dan zat berbahaya.",
+
+        benefit3Title:"Menjaga Kesehatan Jantung",
+        benefit3Desc:"Membantu menjaga tekanan darah dan kesehatan jantung.",
+
+        benefit4Title:"Melancarkan Pencernaan",
+        benefit4Desc:"Mendukung sistem pencernaan agar bekerja lebih optimal.",
+
+        benefit5Title:"Meningkatkan Stamina",
+        benefit5Desc:"Membantu meningkatkan energi dan mengurangi rasa lelah.",
+
+        benefit6Title:"Gaya Hidup Alami",
+        benefit6Desc:"Pilihan alami untuk hidup sehat dan seimbang setiap hari.",
+        qualityTitle: "STANDAR KUALITAS & PENANGANAN",
+
+        qualityStep1Title: "1. Pemilihan",
+        qualityStep1Desc: "Buah dipilih langsung dari pohon terbaik.",
+
+        qualityStep2Title: "2. Panen",
+        qualityStep2Desc: "Dipanen pada tingkat kematangan optimal.",
+
+        qualityStep3Title: "3. Sortasi",
+        qualityStep3Desc: "Disortir untuk memastikan kualitas terbaik.",
+
+        qualityStep4Title: "4. Pengemasan",
+        qualityStep4Desc: "Dikemas dengan hati-hati untuk menjaga kesegaran.",
+
+        qualityStep5Title: "5. Pengiriman",
+        qualityStep5Desc: "Dikirim maksimal 24 jam setelah panen.",
+        productCtaTitle: "Butuh Pasokan Mengkudu Segar Berkualitas?",
+
+        productCtaDesc:
+        "Kami siap menjadi mitra terbaik untuk kebutuhan bahan baku Anda.",
+
+        productCtaFeature1: "Kualitas Terjamin",
+        productCtaFeature2: "Stok Stabil",
+        productCtaFeature3: "Pengiriman Cepat",
+        productCtaFeature4: "Layanan Profesional",
+
+        productCtaButton: "Hubungi Kami Sekarang",
     },
 
     en: {
@@ -335,6 +421,93 @@ const translations = {
         futureTitle:"BUILDING A BETTER FUTURE TOGETHER",
 
         futureDesc:"We believe that the best quality begins with nature and strong partnerships. Let us grow together toward a healthier and more sustainable future.",
+        productFeature1Title: "100% Natural",
+        productFeature1Desc: "Free from harmful chemicals",
+
+        productFeature2Title: "Guaranteed Quality",
+        productFeature2Desc: "Strict quality control from source to delivery",
+
+        productFeature3Title: "Fast Delivery",
+        productFeature3Desc: "Delivered within 24 hours after harvest",
+
+        productFeature4Title: "Local Farmers",
+        productFeature4Desc: "Working directly with Indonesian farmers",
+        productHeroTitle: "OUR PRODUCTS",
+
+        productHeroTitle2: "FRESH NONI FRUIT",
+
+        productHeroTag: "100% NATURAL, GUARANTEED QUALITY",
+
+        productHeroDesc:
+        "We supply premium-quality fresh noni fruit sourced from Indonesia through modern and sustainable supply management.",
+        freshProductTitle: "FRESH NONI FRUIT",
+
+        freshProductDesc:
+        "Noni fruit (Morinda citrifolia) is widely known for its numerous health benefits. We carefully select only premium-quality fruits harvested at the optimal time to preserve freshness, nutritional value, and natural benefits.",
+
+        freshCheck1: "Physiologically ripe",
+        freshCheck2: "Clean and residue-free",
+        freshCheck3: "Free from bruises and decay",
+        freshCheck4: "Uniform creamy-white color",
+        freshCheck5: "Delivered within 24 hours after harvest",
+
+        spec1Title: "Fruit Color",
+        spec1Value: "Uniform White",
+
+        spec2Title: "Fruit Size",
+        spec2Value: "5–10 cm",
+
+        spec3Title: "Average Weight",
+        spec3Value: "100–200 grams",
+
+        spec4Title: "Packaging",
+        spec4Value: "Basket / Carton",
+        benefitTitle: "BENEFITS OF NONI",
+
+        benefit1Title: "Boosts the Immune System",
+        benefit1Desc: "Rich in antioxidants that help strengthen the body's natural immune system.",
+
+        benefit2Title: "Natural Body Detoxification",
+        benefit2Desc: "Helps eliminate toxins and harmful substances from the body.",
+
+        benefit3Title: "Supports Heart Health",
+        benefit3Desc: "Helps maintain healthy blood circulation and cardiovascular function.",
+
+        benefit4Title: "Promotes Healthy Digestion",
+        benefit4Desc: "Supports optimal digestive function and gut health.",
+
+        benefit5Title: "Enhances Stamina",
+        benefit5Desc: "Helps increase energy levels and reduce fatigue.",
+
+        benefit6Title: "Natural Healthy Lifestyle",
+        benefit6Desc: "A natural choice for maintaining a healthy and balanced lifestyle.",
+        qualityTitle: "QUALITY STANDARDS & HANDLING",
+
+        qualityStep1Title: "1. Selection",
+        qualityStep1Desc: "Fresh fruits are carefully selected directly from the best trees.",
+
+        qualityStep2Title: "2. Harvesting",
+        qualityStep2Desc: "Harvested at the optimal stage of maturity.",
+
+        qualityStep3Title: "3. Sorting",
+        qualityStep3Desc: "Sorted carefully to ensure premium quality.",
+
+        qualityStep4Title: "4. Packaging",
+        qualityStep4Desc: "Packed with care to preserve freshness.",
+
+        qualityStep5Title: "5. Delivery",
+        qualityStep5Desc: "Delivered within 24 hours after harvest.",
+        productCtaTitle: "Need a Reliable Supply of Premium Fresh Noni?",
+
+        productCtaDesc:
+        "We are ready to become your trusted partner for high-quality raw material supply.",
+
+        productCtaFeature1: "Guaranteed Quality",
+        productCtaFeature2: "Stable Supply",
+        productCtaFeature3: "Fast Delivery",
+        productCtaFeature4: "Professional Service",
+
+        productCtaButton: "Contact Us Today",
     },
 
     ko: {
@@ -506,6 +679,93 @@ const translations = {
         futureTitle:"더 나은 미래를 함께 만들어 갑니다",
 
         futureDesc:"최고의 품질은 자연과 협력에서 시작된다고 믿습니다. 더 건강하고 지속 가능한 미래를 함께 만들어 갑시다.",
+        productFeature1Title: "100% 천연",
+        productFeature1Desc: "유해 화학물질 무첨가",
+
+        productFeature2Title: "품질 보증",
+        productFeature2Desc: "생산부터 출하까지 엄격한 품질 관리",
+
+        productFeature3Title: "신속한 배송",
+        productFeature3Desc: "수확 후 24시간 이내 배송",
+
+        productFeature4Title: "지역 농가",
+        productFeature4Desc: "인도네시아 현지 농가와 협력",
+        productHeroTitle: "제품 소개",
+
+        productHeroTitle2: "신선한 노니",
+
+        productHeroTag: "100% 천연 · 품질 보증",
+
+        productHeroDesc:
+        "인도네시아에서 생산된 고품질의 신선한 노니를 현대적이고 지속 가능한 공급 시스템을 통해 제공합니다.",
+        freshProductTitle: "신선한 노니",
+
+        freshProductDesc:
+        "노니(Morinda citrifolia)는 다양한 건강 효능으로 잘 알려져 있습니다. 당사는 신선도와 영양, 품질을 유지하기 위해 가장 적절한 시기에 수확한 최고 품질의 노니만을 선별합니다.",
+
+        freshCheck1: "적정 숙성",
+        freshCheck2: "깨끗하고 잔류물 없음",
+        freshCheck3: "멍이나 손상 없음",
+        freshCheck4: "과일 전체가 균일한 흰색",
+        freshCheck5: "수확 후 24시간 이내 배송",
+
+        spec1Title: "과일 색상",
+        spec1Value: "균일한 흰색",
+
+        spec2Title: "과일 크기",
+        spec2Value: "5–10 cm",
+
+        spec3Title: "평균 무게",
+        spec3Value: "100–200 g",
+
+        spec4Title: "포장",
+        spec4Value: "바구니 / 상자",
+        benefitTitle: "노니의 효능",
+
+        benefit1Title: "면역력 강화",
+        benefit1Desc: "풍부한 항산화 성분이 면역 체계 강화에 도움을 줍니다.",
+
+        benefit2Title: "자연 해독 작용",
+        benefit2Desc: "체내의 독소와 유해 물질 배출을 돕습니다.",
+
+        benefit3Title: "심장 건강 유지",
+        benefit3Desc: "혈액순환과 심혈관 건강 유지에 도움을 줍니다.",
+
+        benefit4Title: "소화 기능 개선",
+        benefit4Desc: "소화 기능이 원활하게 이루어질 수 있도록 지원합니다.",
+
+        benefit5Title: "활력 증진",
+        benefit5Desc: "에너지 증진과 피로 감소에 도움을 줍니다.",
+
+        benefit6Title: "건강한 자연 생활",
+        benefit6Desc: "매일 건강하고 균형 잡힌 삶을 위한 자연의 선택입니다.",
+        qualityTitle: "품질 기준 및 취급 과정",
+
+        qualityStep1Title: "1. 선별",
+        qualityStep1Desc: "가장 우수한 나무에서 직접 선별합니다.",
+
+        qualityStep2Title: "2. 수확",
+        qualityStep2Desc: "최적의 숙성 단계에서 수확합니다.",
+
+        qualityStep3Title: "3. 선별 검사",
+        qualityStep3Desc: "최고 품질을 보장하기 위해 선별합니다.",
+
+        qualityStep4Title: "4. 포장",
+        qualityStep4Desc: "신선도를 유지하기 위해 정성껏 포장합니다.",
+
+        qualityStep5Title: "5. 배송",
+        qualityStep5Desc: "수확 후 24시간 이내에 배송합니다.",
+        productCtaTitle: "고품질 신선한 노니 공급이 필요하신가요?",
+
+        productCtaDesc:
+        "고품질 원료 공급을 위한 최고의 파트너가 되어드리겠습니다.",
+
+        productCtaFeature1: "품질 보증",
+        productCtaFeature2: "안정적인 공급",
+        productCtaFeature3: "신속한 배송",
+        productCtaFeature4: "전문 서비스",
+
+        productCtaButton: "지금 문의하기",
     },
 
     hi: {
@@ -676,6 +936,93 @@ const translations = {
         futureTitle:"आइए मिलकर बेहतर भविष्य की ओर बढ़ें",
 
         futureDesc:"हम मानते हैं कि सर्वोत्तम गुणवत्ता प्रकृति और मजबूत साझेदारी से शुरू होती है। आइए स्वस्थ और टिकाऊ भविष्य के लिए साथ मिलकर आगे बढ़ें।",
+        productFeature1Title: "100% प्राकृतिक",
+        productFeature1Desc: "हानिकारक रसायनों से मुक्त",
+
+        productFeature2Title: "गुणवत्ता सुनिश्चित",
+        productFeature2Desc: "स्रोत से वितरण तक सख्त गुणवत्ता नियंत्रण",
+
+        productFeature3Title: "तेज़ डिलीवरी",
+        productFeature3Desc: "कटाई के 24 घंटे के भीतर भेजा जाता है",
+
+        productFeature4Title: "स्थानीय किसान",
+        productFeature4Desc: "इंडोनेशियाई किसानों के साथ सीधा सहयोग",
+        productHeroTitle: "हमारे उत्पाद",
+
+        productHeroTitle2: "ताज़ा नोनी फल",
+
+        productHeroTag: "100% प्राकृतिक • गुणवत्ता सुनिश्चित",
+
+        productHeroDesc:
+        "हम इंडोनेशिया में उत्पादित उच्च गुणवत्ता वाले ताज़े नोनी फल आधुनिक और टिकाऊ आपूर्ति प्रणाली के माध्यम से उपलब्ध कराते हैं।",
+        freshProductTitle: "ताज़ा नोनी फल",
+
+        freshProductDesc:
+        "नोनी (Morinda citrifolia) अपने अनेक स्वास्थ्य लाभों के लिए प्रसिद्ध है। हम केवल सर्वोत्तम गुणवत्ता वाले फलों का चयन करते हैं जिन्हें सही समय पर काटा जाता है ताकि उनकी ताज़गी, पोषण और प्राकृतिक गुण सुरक्षित रहें।",
+
+        freshCheck1: "पूर्ण रूप से पका हुआ",
+        freshCheck2: "स्वच्छ एवं अवशेष रहित",
+        freshCheck3: "बिना सड़न और चोट",
+        freshCheck4: "समान सफेद रंग",
+        freshCheck5: "कटाई के 24 घंटे के भीतर भेजा जाता है",
+
+        spec1Title: "फल का रंग",
+        spec1Value: "समान सफेद",
+
+        spec2Title: "फल का आकार",
+        spec2Value: "5–10 सेमी",
+
+        spec3Title: "औसत वजन",
+        spec3Value: "100–200 ग्राम",
+
+        spec4Title: "पैकेजिंग",
+        spec4Value: "टोकरी / कार्टन",
+        benefitTitle: "नोनी के लाभ",
+
+        benefit1Title: "प्रतिरक्षा प्रणाली को मजबूत बनाता है",
+        benefit1Desc: "उच्च एंटीऑक्सीडेंट शरीर की प्राकृतिक प्रतिरक्षा प्रणाली को मजबूत करने में सहायता करते हैं।",
+
+        benefit2Title: "प्राकृतिक शरीर शुद्धिकरण",
+        benefit2Desc: "शरीर से विषैले और हानिकारक तत्वों को बाहर निकालने में मदद करता है।",
+
+        benefit3Title: "हृदय स्वास्थ्य का समर्थन",
+        benefit3Desc: "रक्त संचार और हृदय स्वास्थ्य बनाए रखने में सहायता करता है।",
+
+        benefit4Title: "पाचन तंत्र को बेहतर बनाता है",
+        benefit4Desc: "पाचन तंत्र को अधिक प्रभावी ढंग से कार्य करने में सहायता करता है।",
+
+        benefit5Title: "ऊर्जा और सहनशक्ति बढ़ाता है",
+        benefit5Desc: "ऊर्जा बढ़ाने और थकान कम करने में मदद करता है।",
+
+        benefit6Title: "प्राकृतिक स्वस्थ जीवनशैली",
+        benefit6Desc: "स्वस्थ और संतुलित जीवन के लिए एक प्राकृतिक विकल्प।",
+        qualityTitle: "गुणवत्ता मानक एवं प्रबंधन",
+
+        qualityStep1Title: "1. चयन",
+        qualityStep1Desc: "सर्वश्रेष्ठ पेड़ों से सीधे फलों का चयन किया जाता है।",
+
+        qualityStep2Title: "2. कटाई",
+        qualityStep2Desc: "उचित परिपक्वता स्तर पर कटाई की जाती है।",
+
+        qualityStep3Title: "3. छंटाई",
+        qualityStep3Desc: "सर्वोत्तम गुणवत्ता सुनिश्चित करने के लिए सावधानीपूर्वक छंटाई की जाती है।",
+
+        qualityStep4Title: "4. पैकेजिंग",
+        qualityStep4Desc: "ताज़गी बनाए रखने के लिए सावधानीपूर्वक पैक किया जाता है।",
+
+        qualityStep5Title: "5. डिलीवरी",
+        qualityStep5Desc: "कटाई के 24 घंटे के भीतर भेजा जाता है।",
+        productCtaTitle: "क्या आपको उच्च गुणवत्ता वाले ताज़े नोनी की स्थिर आपूर्ति चाहिए?",
+
+        productCtaDesc:
+        "हम आपकी कच्चे माल की आवश्यकताओं के लिए विश्वसनीय साझेदार बनने के लिए तैयार हैं।",
+
+        productCtaFeature1: "गुणवत्ता सुनिश्चित",
+        productCtaFeature2: "स्थिर आपूर्ति",
+        productCtaFeature3: "तेज़ डिलीवरी",
+        productCtaFeature4: "पेशेवर सेवा",
+
+        productCtaButton: "अभी संपर्क करें",
     },
 
     zh: {
@@ -854,6 +1201,93 @@ const translations = {
         futureTitle:"携手迈向更美好的未来",
 
         futureDesc:"我们相信，卓越品质源于自然与合作。让我们携手共创更加健康、更加可持续的未来。",
+        productFeature1Title: "100% 天然",
+        productFeature1Desc: "不含有害化学物质",
+
+        productFeature2Title: "品质保障",
+        productFeature2Desc: "从源头到交付严格品质控制",
+
+        productFeature3Title: "快速配送",
+        productFeature3Desc: "采摘后24小时内发货",
+
+        productFeature4Title: "本地农户",
+        productFeature4Desc: "与印度尼西亚当地农户合作",
+        productHeroTitle: "我们的产品",
+
+        productHeroTitle2: "新鲜诺丽果",
+
+        productHeroTag: "100% 天然 · 品质保障",
+
+        productHeroDesc:
+        "我们提供来自印度尼西亚的优质新鲜诺丽果，并采用现代化、可持续的供应管理体系。",
+        freshProductTitle: "新鲜诺丽果",
+
+        freshProductDesc:
+        "诺丽果（Morinda citrifolia）因其丰富的健康价值而广受认可。我们只精选在最佳成熟期采收的优质果实，以确保新鲜度、营养成分及天然价值。",
+
+        freshCheck1: "自然成熟",
+        freshCheck2: "干净无残留",
+        freshCheck3: "无腐烂、无碰伤",
+        freshCheck4: "果实颜色均匀洁白",
+        freshCheck5: "采收后24小时内发货",
+
+        spec1Title: "果实颜色",
+        spec1Value: "均匀洁白",
+
+        spec2Title: "果实大小",
+        spec2Value: "5–10 厘米",
+
+        spec3Title: "平均重量",
+        spec3Value: "100–200 克",
+
+        spec4Title: "包装",
+        spec4Value: "竹篮 / 纸箱",
+        benefitTitle: "诺丽果的功效",
+
+        benefit1Title: "增强免疫力",
+        benefit1Desc: "富含抗氧化成分，有助于增强人体免疫系统。",
+
+        benefit2Title: "天然排毒",
+        benefit2Desc: "有助于清除体内毒素和有害物质。",
+
+        benefit3Title: "维护心脏健康",
+        benefit3Desc: "有助于维持血液循环及心血管健康。",
+
+        benefit4Title: "促进消化系统健康",
+        benefit4Desc: "帮助消化系统更加顺畅、高效地运作。",
+
+        benefit5Title: "提升体力与活力",
+        benefit5Desc: "有助于提高精力并减轻疲劳感。",
+
+        benefit6Title: "天然健康生活方式",
+        benefit6Desc: "每天保持健康、均衡生活的天然选择。",
+        qualityTitle: "质量标准与处理流程",
+
+        qualityStep1Title: "1. 精选",
+        qualityStep1Desc: "直接从优质果树中精心挑选果实。",
+
+        qualityStep2Title: "2. 采收",
+        qualityStep2Desc: "在最佳成熟阶段进行采收。",
+
+        qualityStep3Title: "3. 分拣",
+        qualityStep3Desc: "严格分拣，确保最佳品质。",
+
+        qualityStep4Title: "4. 包装",
+        qualityStep4Desc: "精心包装，保持产品新鲜。",
+
+        qualityStep5Title: "5. 配送",
+        qualityStep5Desc: "采收后24小时内完成发货。",
+        productCtaTitle: "需要优质新鲜诺丽果稳定供应吗？",
+
+        productCtaDesc:
+        "我们愿成为您高品质原料供应的可靠合作伙伴。",
+
+        productCtaFeature1: "品质保障",
+        productCtaFeature2: "稳定供应",
+        productCtaFeature3: "快速配送",
+        productCtaFeature4: "专业服务",
+
+        productCtaButton: "立即联系我们",
     },
 
 };
