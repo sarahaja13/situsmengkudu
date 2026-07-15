@@ -564,6 +564,10 @@ ADVANTAGES CTA
 
     }
 
+    .advantage-hero .hero-title span:last-child {
+        font-size:46px;
+    }
+
     .adv-cta-container{
 
         grid-template-columns:1fr;
