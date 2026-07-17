@@ -401,6 +401,95 @@ const translations = {
         capacityCtaFeature4: "Kemitraan Jangka Panjang",
 
         capacityCtaButton: "Hubungi Kami Sekarang",
+        contactHeroTag: "HUBUNGI KAMI",
+
+        contactHeroTitle: "Kami Siap",
+
+        contactHeroTitle2: "Membantu Anda",
+
+        contactHeroDesc:
+        "Kami terbuka untuk berdiskusi, menjawab pertanyaan, dan menjadi mitra terbaik untuk kebutuhan pasokan buah mengkudu berkualitas Anda.",
+
+        contactFeature1Title: "Respons Cepat",
+
+        contactFeature1Desc:
+        "Kami akan merespons pertanyaan Anda secepat mungkin.",
+
+        contactFeature2Title: "Mitra Terpercaya",
+
+        contactFeature2Desc:
+        "Komitmen kami adalah kualitas, transparansi, dan keberlanjutan.",
+        contactInfoPhone: "Telepon / WhatsApp",
+
+        contactInfoAddress: "Alamat",
+
+        contactInfoAddressValue: "Simo Jawar Gang 5 No. 68",
+
+        contactInfoEmail: "Email",
+
+        contactInfoHours: "Jam Operasional",
+
+        contactInfoHoursValue: "Senin - Sabtu<br>08.00 - 17.00 WIB",
+        contactFormTitle: "Kirim Pesan Kepada Kami",
+
+        contactFormSubtitle:
+        "Isi formulir di bawah ini, dan tim kami akan segera menghubungi Anda.",
+
+        contactName: "Nama Lengkap",
+        contactNamePlaceholder: "Masukkan nama lengkap Anda",
+
+        contactEmailPhone: "Email / WhatsApp",
+        contactEmailPhonePlaceholder: "Masukkan email atau nomor WhatsApp",
+
+        contactCompany: "Perusahaan (Opsional)",
+        contactCompanyPlaceholder: "Nama perusahaan Anda",
+
+        contactNeed: "Jenis Kebutuhan",
+        contactNeedPlaceholder: "Pilih jenis kebutuhan",
+
+        need1: "Pembelian Produk",
+        need2: "Kerja Sama",
+        need3: "Distributor",
+        need4: "Lainnya",
+
+        contactMessage: "Pesan",
+        contactMessagePlaceholder:
+        "Tuliskan pesan atau kebutuhan Anda di sini...\n(Misal: informasi produk, kerja sama, volume, dll.)",
+
+        contactSend: "Kirim Pesan",
+
+        contactPrivacy:
+        "Data Anda aman dan hanya digunakan untuk keperluan komunikasi bisnis.",
+
+        companyInfoTitle: "Informasi Perusahaan",
+
+        companyInfoSubtitle:
+        "Hubungi kami melalui informasi berikut:",
+        faqTag: "FAQ",
+
+        faqTitle: "Pertanyaan yang Sering Diajukan",
+
+        faq1: "Berapa lama waktu pengiriman setelah panen?",
+        faq1Answer: "Pengiriman dilakukan maksimal 24 jam setelah proses panen, sortir, dan quality control selesai untuk menjaga kesegaran buah.",
+
+        faq2: "Apakah menerima kerja sama jangka panjang?",
+        faq2Answer: "Ya. Kami membuka peluang kerja sama jangka panjang dengan distributor, eksportir, maupun perusahaan yang membutuhkan pasokan mengkudu secara berkelanjutan.",
+
+        faq3: "Bagaimana standar kualitas buah mengkudu?",
+        faq3Answer: "Buah dipilih dengan standar ketat, berwarna putih merata, tidak busuk, tidak memar, serta bebas dari residu bahan kimia berbahaya.",
+
+        faq4: "Apakah bisa kunjungan lapangan?",
+        faq4Answer: "Tentu. Kami menerima kunjungan lapangan berdasarkan jadwal yang telah disepakati sebelumnya.",
+
+        partnerTitle: "Siap Menjadi Mitra Terbaik Anda?",
+
+        partnerDesc: "Kami berkomitmen menyediakan buah mengkudu berkualitas tinggi dengan layanan profesional dan kemitraan yang berkelanjutan.",
+
+        partnerFeature1: "Kualitas Terjamin",
+        partnerFeature2: "Pengiriman Tepat Waktu",
+        partnerFeature3: "Kemitraan Jangka Panjang",
+
+        partnerButton: "Hubungi Kami Sekarang",
     },
 
     en: {
@@ -804,6 +893,95 @@ const translations = {
         capacityCtaFeature4: "Long-Term Partnership",
 
         capacityCtaButton: "Contact Us Today",
+        contactHeroTag: "CONTACT US",
+
+        contactHeroTitle: "We're Ready",
+
+        contactHeroTitle2: "To Help You",
+
+        contactHeroDesc:
+        "We are always open to discussing your needs, answering your questions, and becoming your trusted partner for a reliable supply of premium-quality fresh noni fruit.",
+
+        contactFeature1Title: "Fast Response",
+
+        contactFeature1Desc:
+        "Our team is ready to respond to your inquiries as quickly as possible.",
+
+        contactFeature2Title: "Trusted Partner",
+
+        contactFeature2Desc:
+        "We are committed to quality, transparency, and long-term sustainability.",
+        contactInfoPhone: "Phone / WhatsApp",
+
+        contactInfoAddress: "Address",
+
+        contactInfoAddressValue: "Simo Jawar Alley 5 No. 68",
+
+        contactInfoEmail: "Email",
+
+        contactInfoHours: "Business Hours",
+
+        contactInfoHoursValue: "Monday - Saturday<br>08:00 AM - 05:00 PM (WIB)",
+        contactFormTitle: "Send Us a Message",
+
+        contactFormSubtitle:
+        "Fill out the form below and our team will get back to you as soon as possible.",
+
+        contactName: "Full Name",
+        contactNamePlaceholder: "Enter your full name",
+
+        contactEmailPhone: "Email / WhatsApp",
+        contactEmailPhonePlaceholder: "Enter your email or WhatsApp number",
+
+        contactCompany: "Company (Optional)",
+        contactCompanyPlaceholder: "Your company name",
+
+        contactNeed: "Type of Inquiry",
+        contactNeedPlaceholder: "Select your inquiry type",
+
+        need1: "Product Purchase",
+        need2: "Business Partnership",
+        need3: "Distributor",
+        need4: "Others",
+
+        contactMessage: "Message",
+        contactMessagePlaceholder:
+        "Write your message or business inquiry here...\n(e.g. product information, partnership, order volume, etc.)",
+
+        contactSend: "Send Message",
+
+        contactPrivacy:
+        "Your information is secure and will only be used for business communication purposes.",
+
+        companyInfoTitle: "Company Information",
+
+        companyInfoSubtitle:
+        "Reach us through the following contact information:",
+        faqTag: "FAQ",
+
+        faqTitle: "Frequently Asked Questions",
+
+        faq1: "How long does delivery take after harvest?",
+        faq1Answer: "Shipments are dispatched within a maximum of 24 hours after harvesting, sorting, and quality inspection to preserve freshness.",
+
+        faq2: "Do you accept long-term partnerships?",
+        faq2Answer: "Yes. We welcome long-term partnerships with distributors, exporters, and companies requiring a stable noni supply.",
+
+        faq3: "What quality standards do you apply?",
+        faq3Answer: "All fruits are carefully selected to ensure uniform white color, free from bruises, decay, and harmful chemical residues.",
+
+        faq4: "Can we arrange a site visit?",
+        faq4Answer: "Certainly. Site visits can be scheduled by prior appointment.",
+
+        partnerTitle: "Ready to Become Your Trusted Partner?",
+
+        partnerDesc: "We are committed to supplying premium-quality noni fruit with professional service and sustainable partnerships.",
+
+        partnerFeature1: "Guaranteed Quality",
+        partnerFeature2: "On-Time Delivery",
+        partnerFeature3: "Long-Term Partnership",
+
+        partnerButton: "Contact Us Today",
     },
 
     ko: {
@@ -1210,6 +1388,95 @@ const translations = {
         capacityCtaFeature4: "장기 파트너십",
 
         capacityCtaButton: "지금 문의하기",
+        contactHeroTag: "문의하기",
+
+        contactHeroTitle: "언제든지",
+
+        contactHeroTitle2: "도와드리겠습니다",
+
+        contactHeroDesc:
+        "문의 사항에 답변드리고 고객님의 요구를 함께 논의하며, 고품질 노니 공급을 위한 신뢰할 수 있는 파트너가 되겠습니다.",
+
+        contactFeature1Title: "빠른 응답",
+
+        contactFeature1Desc:
+        "문의하신 내용에 최대한 신속하게 답변드립니다.",
+
+        contactFeature2Title: "신뢰할 수 있는 파트너",
+
+        contactFeature2Desc:
+        "품질, 투명성, 그리고 지속 가능한 협력을 최우선으로 합니다.",
+        contactInfoPhone: "전화 / WhatsApp",
+
+        contactInfoAddress: "주소",
+
+        contactInfoAddressValue: "Simo Jawar Gang 5 No. 68",
+
+        contactInfoEmail: "이메일",
+
+        contactInfoHours: "운영 시간",
+
+        contactInfoHoursValue: "월요일 - 토요일<br>08:00 - 17:00 (WIB)",
+        contactFormTitle: "문의 보내기",
+
+        contactFormSubtitle:
+        "아래 양식을 작성해 주시면 담당자가 최대한 빠르게 연락드리겠습니다.",
+
+        contactName: "성함",
+        contactNamePlaceholder: "성함을 입력하세요",
+
+        contactEmailPhone: "이메일 / WhatsApp",
+        contactEmailPhonePlaceholder: "이메일 또는 WhatsApp 번호를 입력하세요",
+
+        contactCompany: "회사명 (선택)",
+        contactCompanyPlaceholder: "회사명을 입력하세요",
+
+        contactNeed: "문의 유형",
+        contactNeedPlaceholder: "문의 유형을 선택하세요",
+
+        need1: "제품 구매",
+        need2: "사업 제휴",
+        need3: "유통 파트너",
+        need4: "기타",
+
+        contactMessage: "문의 내용",
+        contactMessagePlaceholder:
+        "문의 내용이나 요청 사항을 입력해 주세요.\n(예: 제품 정보, 협력, 주문 수량 등)",
+
+        contactSend: "문의 보내기",
+
+        contactPrivacy:
+        "입력하신 정보는 안전하게 보호되며 비즈니스 상담 목적으로만 사용됩니다.",
+
+        companyInfoTitle: "회사 정보",
+
+        companyInfoSubtitle:
+        "아래 연락처를 통해 문의하실 수 있습니다.",
+        faqTag: "FAQ",
+
+        faqTitle: "자주 묻는 질문",
+
+        faq1: "수확 후 배송까지 얼마나 걸리나요?",
+        faq1Answer: "신선도를 유지하기 위해 수확, 선별 및 품질 검사를 마친 후 최대 24시간 이내에 배송됩니다.",
+
+        faq2: "장기 협력이 가능한가요?",
+        faq2Answer: "네. 유통업체, 수출업체 및 기업과의 장기적인 파트너십을 환영합니다.",
+
+        faq3: "노니의 품질 기준은 무엇인가요?",
+        faq3Answer: "균일한 흰색을 띠고, 멍이나 부패가 없으며 유해 화학물질 잔류물이 없는 과일만 선별합니다.",
+
+        faq4: "현장 방문이 가능한가요?",
+        faq4Answer: "물론입니다. 사전 예약을 통해 현장 방문이 가능합니다.",
+
+        partnerTitle: "최고의 파트너가 될 준비가 되셨습니까?",
+
+        partnerDesc: "당사는 최고의 품질과 전문적인 서비스를 바탕으로 지속 가능한 파트너십을 제공합니다.",
+
+        partnerFeature1: "품질 보증",
+        partnerFeature2: "정시 배송",
+        partnerFeature3: "장기 파트너십",
+
+        partnerButton: "지금 문의하기",
     },
 
     hi: {
@@ -1615,6 +1882,95 @@ const translations = {
         capacityCtaFeature4: "दीर्घकालिक साझेदारी",
 
         capacityCtaButton: "अभी संपर्क करें",
+        contactHeroTag: "हमसे संपर्क करें",
+
+        contactHeroTitle: "हम हैं",
+
+        contactHeroTitle2: "आपकी सहायता के लिए तैयार",
+
+        contactHeroDesc:
+        "हम आपके प्रश्नों का उत्तर देने, आपकी आवश्यकताओं पर चर्चा करने और उच्च गुणवत्ता वाले नोनी फल की आपूर्ति के लिए आपके विश्वसनीय साझेदार बनने के लिए सदैव तैयार हैं।",
+
+        contactFeature1Title: "त्वरित प्रतिक्रिया",
+
+        contactFeature1Desc:
+        "हमारी टीम आपके सभी प्रश्नों का यथाशीघ्र उत्तर देने के लिए तैयार है।",
+
+        contactFeature2Title: "विश्वसनीय साझेदार",
+
+        contactFeature2Desc:
+        "हम गुणवत्ता, पारदर्शिता और दीर्घकालिक स्थिरता के प्रति प्रतिबद्ध हैं.",
+        contactInfoPhone: "फ़ोन / व्हाट्सऐप",
+
+        contactInfoAddress: "पता",
+
+        contactInfoAddressValue: "सिमो जवार गली 5 नं. 68",
+
+        contactInfoEmail: "ईमेल",
+
+        contactInfoHours: "कार्य समय",
+
+        contactInfoHoursValue: "सोमवार - शनिवार<br>08:00 - 17:00 WIB",
+        contactFormTitle: "हमें संदेश भेजें",
+
+        contactFormSubtitle:
+        "नीचे दिया गया फ़ॉर्म भरें, हमारी टीम जल्द से जल्द आपसे संपर्क करेगी।",
+
+        contactName: "पूरा नाम",
+        contactNamePlaceholder: "अपना पूरा नाम दर्ज करें",
+
+        contactEmailPhone: "ईमेल / व्हाट्सऐप",
+        contactEmailPhonePlaceholder: "अपना ईमेल या व्हाट्सऐप नंबर दर्ज करें",
+
+        contactCompany: "कंपनी (वैकल्पिक)",
+        contactCompanyPlaceholder: "अपनी कंपनी का नाम दर्ज करें",
+
+        contactNeed: "आवश्यकता का प्रकार",
+        contactNeedPlaceholder: "अपनी आवश्यकता चुनें",
+
+        need1: "उत्पाद खरीद",
+        need2: "व्यावसायिक साझेदारी",
+        need3: "वितरक",
+        need4: "अन्य",
+
+        contactMessage: "संदेश",
+        contactMessagePlaceholder:
+        "अपना संदेश या आवश्यकता यहाँ लिखें...\n(जैसे: उत्पाद जानकारी, साझेदारी, ऑर्डर मात्रा आदि)",
+
+        contactSend: "संदेश भेजें",
+
+        contactPrivacy:
+        "आपकी जानकारी सुरक्षित है और केवल व्यावसायिक संवाद के लिए उपयोग की जाएगी।",
+
+        companyInfoTitle: "कंपनी की जानकारी",
+
+        companyInfoSubtitle:
+        "निम्नलिखित संपर्क विवरण के माध्यम से हमसे जुड़ें:",
+        faqTag: "FAQ",
+
+        faqTitle: "अक्सर पूछे जाने वाले प्रश्न",
+
+        faq1: "कटाई के बाद डिलीवरी में कितना समय लगता है?",
+        faq1Answer: "ताजगी बनाए रखने के लिए कटाई, छंटाई और गुणवत्ता जांच के बाद 24 घंटे के भीतर भेज दिया जाता है।",
+
+        faq2: "क्या आप दीर्घकालिक साझेदारी स्वीकार करते हैं?",
+        faq2Answer: "हाँ। हम वितरकों, निर्यातकों और कंपनियों के साथ दीर्घकालिक साझेदारी का स्वागत करते हैं।",
+
+        faq3: "नोनी फल की गुणवत्ता के मानक क्या हैं?",
+        faq3Answer: "सभी फलों का चयन सख्त गुणवत्ता मानकों के अनुसार किया जाता है ताकि वे समान रूप से सफेद, बिना चोट और रसायनों के अवशेष से मुक्त हों।",
+
+        faq4: "क्या साइट विज़िट की जा सकती है?",
+        faq4Answer: "बिल्कुल। पूर्व निर्धारित समय के अनुसार साइट विज़िट की जा सकती है।",
+
+        partnerTitle: "क्या आप हमारे विश्वसनीय साझेदार बनना चाहते हैं?",
+
+        partnerDesc: "हम उच्च गुणवत्ता वाले नोनी फल, पेशेवर सेवा और दीर्घकालिक साझेदारी प्रदान करने के लिए प्रतिबद्ध हैं।",
+
+        partnerFeature1: "गुणवत्ता की गारंटी",
+        partnerFeature2: "समय पर डिलीवरी",
+        partnerFeature3: "दीर्घकालिक साझेदारी",
+
+        partnerButton: "अभी संपर्क करें",
     },
 
     zh: {
@@ -2028,6 +2384,95 @@ const translations = {
         capacityCtaFeature4: "长期合作",
 
         capacityCtaButton: "立即联系我们",
+        contactHeroTag: "联系我们",
+
+        contactHeroTitle: "我们随时",
+
+        contactHeroTitle2: "为您提供帮助",
+
+        contactHeroDesc:
+        "我们愿意与您沟通交流，解答您的疑问，并成为您优质诺丽果原料供应的长期可靠合作伙伴。",
+
+        contactFeature1Title: "快速响应",
+
+        contactFeature1Desc:
+        "我们的团队将尽快回复您的每一个咨询。",
+
+        contactFeature2Title: "值得信赖的合作伙伴",
+
+        contactFeature2Desc:
+        "我们始终坚持品质、透明与可持续发展的合作理念。",
+        contactInfoPhone: "电话 / WhatsApp",
+
+        contactInfoAddress: "地址",
+
+        contactInfoAddressValue: "Simo Jawar Gang 5 No.68",
+
+        contactInfoEmail: "电子邮箱",
+
+        contactInfoHours: "营业时间",
+
+        contactInfoHoursValue: "周一至周六<br>08:00 - 17:00（WIB）",
+        contactFormTitle: "发送您的留言",
+
+        contactFormSubtitle:
+        "请填写以下表单，我们的团队将尽快与您联系。",
+
+        contactName: "姓名",
+        contactNamePlaceholder: "请输入您的姓名",
+
+        contactEmailPhone: "邮箱 / WhatsApp",
+        contactEmailPhonePlaceholder: "请输入邮箱或 WhatsApp 号码",
+
+        contactCompany: "公司（可选）",
+        contactCompanyPlaceholder: "请输入公司名称",
+
+        contactNeed: "需求类型",
+        contactNeedPlaceholder: "请选择需求类型",
+
+        need1: "产品采购",
+        need2: "商务合作",
+        need3: "经销商合作",
+        need4: "其他",
+
+        contactMessage: "留言内容",
+        contactMessagePlaceholder:
+        "请在此填写您的需求或留言……\n（例如：产品咨询、合作、采购数量等）",
+
+        contactSend: "发送留言",
+
+        contactPrivacy:
+        "您的信息将受到保护，仅用于商务沟通。",
+
+        companyInfoTitle: "公司信息",
+
+        companyInfoSubtitle:
+        "您可以通过以下方式联系我们：",
+        faqTag: "FAQ",
+
+        faqTitle: "常见问题",
+
+        faq1: "采收后多久可以发货？",
+        faq1Answer: "为了保证新鲜度，我们将在采收、分拣和质量检测完成后24小时内发货。",
+
+        faq2: "是否接受长期合作？",
+        faq2Answer: "是的，我们欢迎与经销商、出口商及企业建立长期合作关系。",
+
+        faq3: "诺丽果的质量标准是什么？",
+        faq3Answer: "所有水果均经过严格筛选，确保颜色均匀洁白、无碰伤、无腐烂，并且无有害化学残留。",
+
+        faq4: "可以安排实地考察吗？",
+        faq4Answer: "当然可以。欢迎提前预约安排实地考察。",
+
+        partnerTitle: "准备成为您值得信赖的合作伙伴吗？",
+
+        partnerDesc: "我们致力于提供高品质诺丽果，并以专业服务建立长期稳定的合作关系。",
+
+        partnerFeature1: "品质保证",
+        partnerFeature2: "准时交付",
+        partnerFeature3: "长期合作",
+
+        partnerButton: "立即联系我们",
     },
 
 };
