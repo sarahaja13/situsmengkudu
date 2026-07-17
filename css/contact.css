@@ -71,6 +71,9 @@ CONTACT HERO
     grid-template-columns:1fr 1fr;
 
 }
+.organic-logo{
+    display:none;
+}
 
 }
 
