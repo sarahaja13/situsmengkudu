@@ -931,7 +931,23 @@ CAPACITY CTA
 
 }
 
+.partner-content {
+        width: 100%;
+        right: 10%;
+    }
+
+.partner-content h2 {
+    font-size: 30px;
+    line-height: 1.15;
+    margin-bottom: 18px;
+    width: 127%;
+}
+.partner-content p {
+    width: 125%;
+}
+
 .chart-grid{
+    position:relative;
     right:7%;
 }
 
