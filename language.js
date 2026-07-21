@@ -118,7 +118,7 @@ const translations = {
         statValue2: "4",
         statDesc2: "Provinsi strategis",
 
-        statTitle3: "Kapasitas Maksimal",
+        statTitle3: "Kapasitas Menyesuaikan Permintaan",
         statValue3: "100-200+ Ton",
         statDesc3: "Per bulan",
 
@@ -633,7 +633,7 @@ const translations = {
         statValue2: "4",
         statDesc2: "Strategic provinces",
 
-        statTitle3: "Maximum Capacity",
+        statTitle3: "Capacity Adjusted to Demand",
         statValue3: "100-200+ Tons",
         statDesc3: "Per month",
 
@@ -1153,7 +1153,7 @@ const translations = {
         statValue2: "4",
         statDesc2: "전략적 생산 지역",
 
-        statTitle3: "최대 공급 능력",
+        statTitle3: "수요에 맞춘 생산 역량",
         statValue3: "100-200+톤",
         statDesc3: "월 기준",
 
@@ -1671,7 +1671,7 @@ const translations = {
         statValue2: "4",
         statDesc2: "रणनीतिक प्रांत",
 
-        statTitle3: "अधिकतम क्षमता",
+        statTitle3: "मांग के अनुसार समायोजित क्षमता",
         statValue3: "100-200+ टन",
         statDesc3: "प्रति माह",
 
@@ -2197,7 +2197,7 @@ const translations = {
         statValue2: "4",
         statDesc2: "重点省份",
 
-        statTitle3: "最大产能",
+        statTitle3: "产能可根据需求调整",
         statValue3: "100-200+ 吨",
         statDesc3: "每月",
 
