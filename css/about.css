@@ -1164,6 +1164,9 @@ VALUES
 
     gap:24px;
 
+    left:3%;
+    position: relative;
+
 }
 
 .value-card{
@@ -1661,7 +1664,9 @@ CERTIFICATION
 
     align-items:center;
 
-    gap:18px;
+    gap: 10px;
+    left: 14%;
+    position: absolute;
 
 }
 
