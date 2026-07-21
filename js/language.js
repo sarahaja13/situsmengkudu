@@ -27,7 +27,7 @@ const translations = {
 
         feature3Title:"Kemitraan Jangka Panjang",
         feature3Desc:"Bersama petani lokal",
-        whyTitle: "KENAPA MEMILIH KAMI?",
+        whyTitle: "PROSES PENGELOLAAN KAMI",
 
         why1Title: "Konsolidasi Petani",
         why1Desc: "Bekerja sama dengan petani terpilih di berbagai wilayah Indonesia.",
@@ -543,7 +543,7 @@ const translations = {
         feature3Title:"Long-term Partnership",
         feature3Desc:"Working with local farmers",
 
-        whyTitle: "WHY CHOOSE US?",
+        whyTitle: "OUR PROCESS",
 
         why1Title: "Farmer Consolidation",
         why1Desc: "Working with selected farmers across Indonesia.",
@@ -1060,7 +1060,7 @@ const translations = {
         feature3Title:"장기 파트너십",
         feature3Desc:"지역 농가와 협력",
 
-        whyTitle: "왜 저희를 선택해야 할까요?",
+        whyTitle: "당사의 관리 프로세스",
 
         why1Title: "농가 협력",
         why1Desc: "인도네시아 전역의 우수 농가와 협력합니다.",
@@ -1579,7 +1579,7 @@ const translations = {
         feature3Title:"दीर्घकालिक साझेदारी",
         feature3Desc:"स्थानीय किसानों के साथ",
 
-        whyTitle: "हमें क्यों चुनें?",
+        whyTitle: "हमारी प्रबंधन प्रक्रिया",
 
         why1Title: "किसान नेटवर्क",
         why1Desc: "इंडोनेशिया के चयनित किसानों के साथ साझेदारी।",
@@ -2104,7 +2104,7 @@ const translations = {
         feature3Title: "长期合作",
         feature3Desc: "与当地农户合作",
 
-        whyTitle: "为什么选择我们？",
+        whyTitle: "我们的管理流程",
 
         why1Title: "农户整合",
         why1Desc: "与印度尼西亚各地优质农户合作。",
