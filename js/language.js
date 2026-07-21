@@ -102,8 +102,8 @@ const translations = {
         "Mitra Andal, Kualitas Alami,<br>Untuk Masa Depan Sehat",
 
         aboutDesc:
-        "PT Ade Pratama Naturindo berkomitmen menjadi penyedia buah mengkudu segar dan kering berkualitas tinggi dari petani Indonesia dengan sistem pengelolaan modern, terstruktur, dan berkelanjutan.",
-
+        "PT Ade Pratama Naturindo merupakan supplier buah mengkudu beku asal Indonesia dengan kualitas premium. Kami melayani kebutuhan pasar nasional maupun internasional dengan menyediakan produk buah mengkudu segar maupun beku yang diproses secara higienis dan ditangani sesuai standar kualitas untuk memenuhi kebutuhan pelanggan dan mitra bisnis skala Nasional maupun Internasional.",
+        
         aboutOrganic:
         "Produk organik<br>untuk hidup sehat<br>dan bumi lestari",
 
@@ -617,8 +617,7 @@ const translations = {
         "Trusted Partner,<br>Natural Quality,<br>for a Healthier Future",
 
         aboutDesc:
-        "PT Ade Pratama Naturindo is committed to supplying premium fresh and dried noni fruits from Indonesian farmers through modern, structured, and sustainable management.",
-
+        "PT Ade Pratama Naturindo is an Indonesian supplier of premium-quality frozen noni fruit. We serve both domestic and international markets by providing fresh and frozen noni fruit products that are hygienically processed and handled in accordance with quality standards to meet the needs of customers and business partners at both national and international levels.",
         aboutOrganic:
         "Organic products<br>for healthier living<br>and a greener planet",
 
@@ -1136,8 +1135,7 @@ const translations = {
         "신뢰할 수 있는 파트너,<br>자연 그대로의 품질,<br>더 건강한 미래를 위해",
 
         aboutDesc:
-        "PT Ade Pratama Naturindo는 현대적이고 체계적이며 지속 가능한 관리 시스템을 통해 인도네시아 농가의 고품질 생노니와 건노니를 공급합니다.",
-
+        "PT Ade Pratama Naturindo는 인도네시아산 프리미엄 냉동 노니 과일 공급업체입니다. 당사는 국내외 시장을 대상으로 신선 및 냉동 노니 과일을 공급하며, 모든 제품은 위생적으로 가공되고 품질 기준에 따라 철저하게 관리됩니다. 이를 통해 국내외 고객과 비즈니스 파트너의 다양한 요구를 충족하고 있습니다.",
         aboutOrganic:
         "유기농 제품으로<br>건강한 삶과<br>지속 가능한 지구를",
 
@@ -1655,8 +1653,7 @@ const translations = {
         "विश्वसनीय साझेदार,<br>प्राकृतिक गुणवत्ता,<br>स्वस्थ भविष्य के लिए",
 
         aboutDesc:
-        "PT Ade Pratama Naturindo आधुनिक, सुव्यवस्थित और सतत प्रबंधन प्रणाली के माध्यम से इंडोनेशियाई किसानों से उच्च गुणवत्ता वाले ताज़े एवं सूखे नोनी फल उपलब्ध कराने के लिए प्रतिबद्ध है।",
-
+        "PT Ade Pratama Naturindo इंडोनेशिया की प्रीमियम गुणवत्ता वाले फ्रोजन नोनी फल की आपूर्तिकर्ता कंपनी है। हम राष्ट्रीय और अंतरराष्ट्रीय बाजारों की आवश्यकताओं को पूरा करते हुए ताज़े तथा फ्रोजन नोनी फल उपलब्ध कराते हैं। हमारे उत्पादों को स्वच्छतापूर्ण तरीके से संसाधित किया जाता है और गुणवत्ता मानकों के अनुसार संभाला जाता है, ताकि राष्ट्रीय एवं अंतरराष्ट्रीय स्तर के ग्राहकों और व्यावसायिक भागीदारों की आवश्यकताओं को पूरा किया जा सके।",
         aboutOrganic:
         "जैविक उत्पाद<br>स्वस्थ जीवन और<br>हरित पृथ्वी के लिए",
 
@@ -2180,8 +2177,7 @@ const translations = {
         "值得信赖的合作伙伴，<br>天然品质，<br>共创健康未来",
 
         aboutDesc:
-        "PT Ade Pratama Naturindo 致力于通过现代化、规范化和可持续的管理体系，为全球客户提供来自印度尼西亚农户的优质新鲜及干制诺丽果。",
-
+        "PT Ade Pratama Naturindo 是一家来自印度尼西亚的优质冷冻诺丽果供应商。我们为国内及国际市场提供新鲜和冷冻诺丽果产品。所有产品均采用卫生的加工方式，并严格按照质量标准进行处理，以满足国内外客户及商业合作伙伴的需求。",
         aboutOrganic:
         "有机产品<br>健康生活<br>绿色未来",
 
