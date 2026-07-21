@@ -741,17 +741,24 @@ QUALITY PROCESS
 }
 
 .process-flow{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:40px 30px;
+    margin-top:50px;
+}
 
-    display:flex;
+.process-arrow{
+    display:none;
+}
 
-    align-items:flex-start;
+.process-step{
+    text-align:center;
+}
 
-    justify-content:center;
-
-    gap:12px;
-
-    margin-top:40px;
-
+.process-step p{
+    max-width:260px;
+    margin:auto;
+    line-height:1.8;
 }
 
 .process-step{
