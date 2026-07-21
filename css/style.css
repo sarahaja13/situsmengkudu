@@ -3487,6 +3487,10 @@ CAPACITY MOBILE
     background:linear-gradient(135deg,#2dc44c,#22923b);
 }
 
+.footer-bar.container {
+    left:46%!important;
+}
+
 .footer-wa i{
     font-size:24px;
     color:#fff;
