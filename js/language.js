@@ -199,7 +199,7 @@ const translations = {
         spec1Title: "Warna Buah",
         spec1Value: "Putih Merata",
 
-        spec2Title: "Ukuran Buah",
+        spec2Title: "Diameter Ukuran Buah",
         spec2Value: "6 cm",
 
         spec3Title: "Berat Rata-rata",
@@ -359,7 +359,7 @@ const translations = {
         capacityMaxDesc:
         "Peningkatan kapasitas kami dapat mengikuti komitmen kontrak pembelian Anda dengan sistem pengelolaan yang terstruktur, terukur, dan berkelanjutan.",
 
-        capacityStage1: "Tahap Awal<br>(Stabilisasi)",
+        capacityStage1: "Tahap Awal (Stabilisasi)",
         capacityStage2: "Tahap Berkala<br>(Rutin)",
         capacityStage3: "Tahap Penuh<br>(Kontrak)",
 
@@ -452,7 +452,7 @@ const translations = {
 
         contactInfoHours: "Jam Operasional",
 
-        contactInfoHoursValue: "Senin - Sabtu<br>08.00 - 17.00 WIB",
+        contactInfoHoursValue: "Senin - Sabtu<br>08.00 - 16.00 WIB",
         contactFormTitle: "Kirim Pesan Kepada Kami",
 
         contactFormSubtitle:
@@ -513,6 +513,12 @@ const translations = {
         partnerFeature3: "Kemitraan Jangka Panjang",
 
         partnerButton: "Hubungi Kami Sekarang",
+        productList1: "Mengkudu Segar",
+        productList2: "Mengkudu Beku",
+        productList3: "Mengkudu Organik Beku",
+        productList4: "Jus Mengkudu",
+        productList5: "Mengkudu Kering",
+        comingSoon: "(Segera Hadir)",
     },
 
     en: {
@@ -713,7 +719,7 @@ const translations = {
         spec1Title: "Fruit Color",
         spec1Value: "Uniform White",
 
-        spec2Title: "Fruit Size",
+        spec2Title: "Fruit Diameter",
         spec2Value: "6 cm",
 
         spec3Title: "Average Weight",
@@ -875,7 +881,7 @@ const translations = {
         capacityMaxDesc:
         "Our production capacity can scale according to your purchase commitments through a structured, measurable, and sustainable supply management system.",
 
-        capacityStage1: "Initial Stage<br>(Stabilization)",
+        capacityStage1: "Initial Stage (Stabilization)",
         capacityStage2: "Regular Stage<br>(Routine)",
         capacityStage3: "Full Stage<br>(Contract)",
 
@@ -968,7 +974,7 @@ const translations = {
 
         contactInfoHours: "Business Hours",
 
-        contactInfoHoursValue: "Monday - Saturday<br>08:00 AM - 05:00 PM (WIB)",
+        contactInfoHoursValue: "Monday - Saturday<br>08:00 AM - 04:00 PM (WIB)",
         contactFormTitle: "Send Us a Message",
 
         contactFormSubtitle:
@@ -1029,6 +1035,12 @@ const translations = {
         partnerFeature3: "Long-Term Partnership",
 
         partnerButton: "Contact Us Today",
+        productList1: "Fresh Noni",
+        productList2: "Frozen Noni",
+        productList3: "Frozen Organic Noni",
+        productList4: "Noni Juice",
+        productList5: "Dried Noni",
+        comingSoon: "(Coming Soon)",
     },
 
     ko: {
@@ -1232,7 +1244,7 @@ const translations = {
         spec1Title: "과일 색상",
         spec1Value: "균일한 흰색",
 
-        spec2Title: "과일 크기",
+        spec2Title: "과일 직경",
         spec2Value: "6 cm",
 
         spec3Title: "평균 무게",
@@ -1393,7 +1405,7 @@ const translations = {
         capacityMaxDesc:
         "체계적이고 지속 가능한 공급 관리 시스템을 통해 고객의 계약 물량에 맞춰 공급 능력을 확대할 수 있습니다.",
 
-        capacityStage1: "초기 단계<br>(안정화)",
+        capacityStage1: "초기 단계 (안정화)",
         capacityStage2: "정기 단계<br>(정기 공급)",
         capacityStage3: "전체 단계<br>(계약 공급)",
 
@@ -1486,7 +1498,7 @@ const translations = {
 
         contactInfoHours: "운영 시간",
 
-        contactInfoHoursValue: "월요일 - 토요일<br>08:00 - 17:00 (WIB)",
+        contactInfoHoursValue: "월요일 - 토요일<br>08:00 - 16:00 (WIB)",
         contactFormTitle: "문의 보내기",
 
         contactFormSubtitle:
@@ -1547,6 +1559,12 @@ const translations = {
         partnerFeature3: "장기 파트너십",
 
         partnerButton: "지금 문의하기",
+        productList1: "신선한 노니",
+        productList2: "냉동 노니",
+        productList3: "유기농 냉동 노니",
+        productList4: "노니 주스",
+        productList5: "건조 노니",
+        comingSoon: "(출시 예정)",
     },
 
     hi: {
@@ -1749,7 +1767,7 @@ const translations = {
         spec1Title: "फल का रंग",
         spec1Value: "समान सफेद",
 
-        spec2Title: "फल का आकार",
+        spec2Title: "फल का व्यास",
         spec2Value: "6 सेमी",
 
         spec3Title: "औसत वजन",
@@ -1910,7 +1928,7 @@ const translations = {
         capacityMaxDesc:
         "हमारी आपूर्ति क्षमता आपके खरीद अनुबंध के अनुसार संरचित, मापनीय और टिकाऊ प्रबंधन प्रणाली के माध्यम से बढ़ाई जा सकती है।",
 
-        capacityStage1: "प्रारंभिक चरण<br>(स्थिरीकरण)",
+        capacityStage1: "प्रारंभिक चरण (स्थिरीकरण)",
         capacityStage2: "नियमित चरण<br>(रूटीन)",
         capacityStage3: "पूर्ण चरण<br>(अनुबंध)",
 
@@ -2003,7 +2021,7 @@ const translations = {
 
         contactInfoHours: "कार्य समय",
 
-        contactInfoHoursValue: "सोमवार - शनिवार<br>08:00 - 17:00 WIB",
+        contactInfoHoursValue: "सोमवार - शनिवार<br>08:00 - 16:00 WIB",
         contactFormTitle: "हमें संदेश भेजें",
 
         contactFormSubtitle:
@@ -2064,6 +2082,12 @@ const translations = {
         partnerFeature3: "दीर्घकालिक साझेदारी",
 
         partnerButton: "अभी संपर्क करें",
+        productList1: "ताज़ा नोनी",
+        productList2: "फ्रोजन नोनी",
+        productList3: "फ्रोजन ऑर्गेनिक नोनी",
+        productList4: "नोनी जूस",
+        productList5: "सूखी नोनी",
+        comingSoon: "(जल्द उपलब्ध)",
     },
 
     zh: {
@@ -2274,7 +2298,7 @@ const translations = {
         spec1Title: "果实颜色",
         spec1Value: "均匀洁白",
 
-        spec2Title: "果实大小",
+        spec2Title: "果实直径",
         spec2Value: "6 厘米",
 
         spec3Title: "平均重量",
@@ -2436,7 +2460,7 @@ const translations = {
         capacityMaxDesc:
         "我们可根据您的采购合同需求，通过规范化、可持续的供应管理体系逐步提升供应能力。",
 
-        capacityStage1: "初始阶段<br>（稳定期）",
+        capacityStage1: "初始阶段（稳定期）",
         capacityStage2: "常规阶段<br>（稳定供应）",
         capacityStage3: "全面阶段<br>（合同供应）",
 
@@ -2529,7 +2553,7 @@ const translations = {
 
         contactInfoHours: "营业时间",
 
-        contactInfoHoursValue: "周一至周六<br>08:00 - 17:00（WIB）",
+        contactInfoHoursValue: "周一至周六<br>08:00 - 16:00（WIB）",
         contactFormTitle: "发送您的留言",
 
         contactFormSubtitle:
@@ -2590,6 +2614,12 @@ const translations = {
         partnerFeature3: "长期合作",
 
         partnerButton: "立即联系我们",
+        productList1: "新鲜诺丽果",
+        productList2: "冷冻诺丽果",
+        productList3: "有机冷冻诺丽果",
+        productList4: "诺丽果汁",
+        productList5: "干诺丽果",
+        comingSoon: "（即将推出）",
     },
 
 };
