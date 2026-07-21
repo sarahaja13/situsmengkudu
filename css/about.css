@@ -33,6 +33,8 @@ ABOUT HERO
 
     margin:auto;
 
+    margin-top: -5%!important;;
+
 }
 
 /*============================*/
@@ -74,7 +76,7 @@ ABOUT HERO
 
 .about-content p{
 
-    font-size:21px;
+    font-size:17px;
 
     line-height:1.9;
 
@@ -124,7 +126,7 @@ ABOUT HERO
 
     right:-1%;
 
-    top:-89px;
+    top:-4%;
 
     width:62%;
 
@@ -1107,9 +1109,9 @@ VALUES
     color:#114B29;
 
     font-weight:800;
-
+    position: relative;
     margin-top:-5%;
-
+    left:3%;
 }
 
 .section-title i{
@@ -1135,7 +1137,8 @@ VALUES
     gap:12px;
 
     margin:18px 0 60px;
-
+    left: 3%;
+    position: relative;
 }
 
 .title-divider span{
@@ -1815,4 +1818,8 @@ MOBILE
 
 }
 
+}
+
+.organic-logo{
+    top:33%;
 }
