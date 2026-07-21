@@ -66,7 +66,7 @@ const translations = {
 
         capacity40:"40 Ton / Bulan",
         capacity60:"60 Ton / Bulan",
-        capacity100:"100 Ton / Bulan",
+        capacity100:"100-200+ Ton / Bulan",
 
         capacityNote:"Pengiriman maksimal 24 jam dari panen.",
 
@@ -82,7 +82,7 @@ const translations = {
 
         ctaTitle: "KITA TERBUKA<br>UNTUK BERDISKUSI",
 
-        ctaDesc: "Kami siap membangun sistem pasokan jangka panjang. Jika buyer membutuhkan stabilitas hingga 100 Ton per bulan, kami selalu siap tumbuh bersama.",
+        ctaDesc: "Kami siap membangun sistem pasokan jangka panjang. Jika buyer membutuhkan stabilitas hingga 100-200+ Ton per bulan, kami selalu siap tumbuh bersama.",
 
         ctaIcon1: "Volume Final",
         ctaIcon2: "Skema Harga",
@@ -118,8 +118,8 @@ const translations = {
         statValue2: "4",
         statDesc2: "Provinsi strategis",
 
-        statTitle3: "Kapasitas Maksimal",
-        statValue3: "100 Ton",
+        statTitle3: "Kapasitas Menyesuaikan Permintaan",
+        statValue3: "100-200+ Ton",
         statDesc3: "Per bulan",
 
         statTitle4: "Komitmen Kami",
@@ -347,14 +347,14 @@ const translations = {
 
         capacityFeature2Title:"Pasokan Stabil<br>Sepanjang Tahun",
 
-        capacityFeature3Title:"Skalabilitas Hingga<br>100 Ton/Bulan",
+        capacityFeature3Title:"Skalabilitas Hingga<br>100-200+ Ton/Bulan",
 
         capacityFeature4Title:"Komitmen Jangka<br>Panjang",
         capacitySectionTitle: "KAPASITAS PASOKAN KAMI",
 
         capacityMaxTitle: "KAPASITAS MAKSIMAL",
 
-        capacityMaxValue: "100 TON / BULAN",
+        capacityMaxValue: "100-200+ TON / BULAN",
 
         capacityMaxDesc:
         "Peningkatan kapasitas kami dapat mengikuti komitmen kontrak pembelian Anda dengan sistem pengelolaan yang terstruktur, terukur, dan berkelanjutan.",
@@ -379,7 +379,7 @@ const translations = {
         "Pengiriman maksimal 24 jam dari panen untuk menjaga kesegaran dan kualitas buah.",
         capacityStep1Value: "40 Ton / Bulan",
         capacityStep2Value: "60 Ton / Bulan",
-        capacityStep3Value: "100 Ton / Bulan",
+        capacityStep3Value: "100-200+ Ton / Bulan",
         sourceTitle: "SUMBER PASOKAN KAMI",
 
         sourceCard1Title: "Provinsi Strategis",
@@ -416,7 +416,7 @@ const translations = {
         capacityCtaTitle: "Mitra Tepat untuk Kebutuhan Pasokan Anda",
 
         capacityCtaDesc:
-        "Dengan kapasitas hingga 100 Ton per bulan, kami siap menjadi mitra andal untuk mendukung kebutuhan bahan baku mengkudu Anda secara berkelanjutan.",
+        "Dengan kapasitas hingga 100-200+ Ton per bulan, kami siap menjadi mitra andal untuk mendukung kebutuhan bahan baku mengkudu Anda secara berkelanjutan.",
 
         capacityCtaFeature1: "Pasokan Stabil",
         capacityCtaFeature2: "Kualitas Terjamin",
@@ -582,7 +582,7 @@ const translations = {
 
         capacity40:"40 Tons / Month",
         capacity60:"60 Tons / Month",
-        capacity100:"100 Tons / Month",
+        capacity100:"100-200+ Tons / Month",
 
         capacityNote:"Maximum delivery within 24 hours after harvest.",
 
@@ -597,7 +597,7 @@ const translations = {
         commitment7:"Stable pricing structure",
         ctaTitle: "WE ARE OPEN<br>TO DISCUSSION",
 
-        ctaDesc: "We are ready to establish a long-term supply partnership. If buyers require a stable supply of up to 100 tons per month, we are always ready to grow together.",
+        ctaDesc: "We are ready to establish a long-term supply partnership. If buyers require a stable supply of up to 100-200+ tons per month, we are always ready to grow together.",
 
         ctaIcon1: "Final Volume",
         ctaIcon2: "Pricing Scheme",
@@ -633,8 +633,8 @@ const translations = {
         statValue2: "4",
         statDesc2: "Strategic provinces",
 
-        statTitle3: "Maximum Capacity",
-        statValue3: "100 Tons",
+        statTitle3: "Capacity Adjusted to Demand",
+        statValue3: "100-200+ Tons",
         statDesc3: "Per month",
 
         statTitle4: "Our Commitment",
@@ -864,14 +864,14 @@ const translations = {
 
         capacityFeature2Title:"Stable Supply<br>Year Round",
 
-        capacityFeature3Title:"Scalable Up To<br>100 Tons/Month",
+        capacityFeature3Title:"Scalable Up To<br>100-200+ Tons/Month",
 
         capacityFeature4Title:"Long-Term<br>Commitment",
         capacitySectionTitle: "OUR SUPPLY CAPACITY",
 
         capacityMaxTitle: "MAXIMUM CAPACITY",
 
-        capacityMaxValue: "100 TONS / MONTH",
+        capacityMaxValue: "100-200+ TONS / MONTH",
 
         capacityMaxDesc:
         "Our production capacity can scale according to your purchase commitments through a structured, measurable, and sustainable supply management system.",
@@ -896,7 +896,7 @@ const translations = {
         "All shipments are dispatched within 24 hours after harvest to maintain freshness and product quality.",
         capacityStep1Value: "40 Tons / Month",
         capacityStep2Value: "60 Tons / Month",
-        capacityStep3Value: "100 Tons / Month",
+        capacityStep3Value: "100-200+ Tons / Month",
         sourceTitle: "OUR SUPPLY SOURCES",
 
         sourceCard1Title: "Strategic Provinces",
@@ -933,7 +933,7 @@ const translations = {
         capacityCtaTitle: "The Right Partner for Your Noni Supply Needs",
 
         capacityCtaDesc:
-        "With a supply capacity of up to 100 tons per month, we are ready to become your trusted partner in providing sustainable premium noni raw materials.",
+        "With a supply capacity of up to 100-200+ tons per month, we are ready to become your trusted partner in providing sustainable premium noni raw materials.",
 
         capacityCtaFeature1: "Stable Supply",
         capacityCtaFeature2: "Guaranteed Quality",
@@ -1099,7 +1099,7 @@ const translations = {
 
         capacity40:"월 40톤",
         capacity60:"월 60톤",
-        capacity100:"월 100톤",
+        capacity100:"월 100-200+톤",
 
         capacityNote:"수확 후 최대 24시간 이내 배송.",
 
@@ -1115,7 +1115,7 @@ const translations = {
 
         ctaTitle: "함께<br>이야기해 보세요",
 
-        ctaDesc: "장기적인 공급 파트너십을 구축할 준비가 되어 있습니다. 월 최대 100톤의 안정적인 공급이 필요하시다면 언제든 함께 성장할 준비가 되어 있습니다.",
+        ctaDesc: "장기적인 공급 파트너십을 구축할 준비가 되어 있습니다. 월 최대 100-200+톤의 안정적인 공급이 필요하시다면 언제든 함께 성장할 준비가 되어 있습니다.",
 
         ctaIcon1: "최종 물량",
         ctaIcon2: "가격 조건",
@@ -1153,8 +1153,8 @@ const translations = {
         statValue2: "4",
         statDesc2: "전략적 생산 지역",
 
-        statTitle3: "최대 공급 능력",
-        statValue3: "100톤",
+        statTitle3: "수요에 맞춘 생산 역량",
+        statValue3: "100-200+톤",
         statDesc3: "월 기준",
 
         statTitle4: "우리의 약속",
@@ -1383,14 +1383,14 @@ const translations = {
 
         capacityFeature2Title:"연중 안정적인<br>공급",
 
-        capacityFeature3Title:"월 최대<br>100톤 공급",
+        capacityFeature3Title:"월 최대<br>100-200+톤 공급",
 
         capacityFeature4Title:"장기적인<br>협력",
         capacitySectionTitle: "공급 능력",
 
         capacityMaxTitle: "최대 공급 능력",
 
-        capacityMaxValue: "월 100톤",
+        capacityMaxValue: "월 100-200+톤",
 
         capacityMaxDesc:
         "체계적이고 지속 가능한 공급 관리 시스템을 통해 고객의 계약 물량에 맞춰 공급 능력을 확대할 수 있습니다.",
@@ -1415,7 +1415,7 @@ const translations = {
         "수확 후 24시간 이내에 배송하여 신선도와 품질을 유지합니다.",
         capacityStep1Value: "월 40톤",
         capacityStep2Value: "월 60톤",
-        capacityStep3Value: "월 100톤",
+        capacityStep3Value: "월 100-200+톤",
         sourceTitle: "공급 원산지",
 
         sourceCard1Title: "전략적 생산 지역",
@@ -1452,7 +1452,7 @@ const translations = {
         capacityCtaTitle: "노니 원료 공급을 위한 최고의 파트너",
 
         capacityCtaDesc:
-        "월 최대 100톤의 공급 능력을 바탕으로 지속 가능한 고품질 노니 원료를 안정적으로 공급하는 신뢰할 수 있는 파트너가 되겠습니다.",
+        "월 최대 100-200+톤의 공급 능력을 바탕으로 지속 가능한 고품질 노니 원료를 안정적으로 공급하는 신뢰할 수 있는 파트너가 되겠습니다.",
 
         capacityCtaFeature1: "안정적인 공급",
         capacityCtaFeature2: "품질 보증",
@@ -1618,7 +1618,7 @@ const translations = {
 
         capacity40:"40 टन / माह",
         capacity60:"60 टन / माह",
-        capacity100:"100 टन / माह",
+        capacity100:"100-200+ टन / माह",
 
         capacityNote:"कटाई के 24 घंटे के भीतर अधिकतम डिलीवरी।",
 
@@ -1634,7 +1634,7 @@ const translations = {
 
         ctaTitle: "हम चर्चा के लिए<br>तैयार हैं",
 
-        ctaDesc: "हम दीर्घकालिक आपूर्ति साझेदारी बनाने के लिए तैयार हैं। यदि आपको प्रति माह 100 टन तक की स्थिर आपूर्ति चाहिए, तो हम आपके साथ आगे बढ़ने के लिए सदैव तैयार हैं।",
+        ctaDesc: "हम दीर्घकालिक आपूर्ति साझेदारी बनाने के लिए तैयार हैं। यदि आपको प्रति माह 100-200+ टन तक की स्थिर आपूर्ति चाहिए, तो हम आपके साथ आगे बढ़ने के लिए सदैव तैयार हैं।",
 
         ctaIcon1: "अंतिम मात्रा",
         ctaIcon2: "मूल्य योजना",
@@ -1671,8 +1671,8 @@ const translations = {
         statValue2: "4",
         statDesc2: "रणनीतिक प्रांत",
 
-        statTitle3: "अधिकतम क्षमता",
-        statValue3: "100 टन",
+        statTitle3: "मांग के अनुसार समायोजित क्षमता",
+        statValue3: "100-200+ टन",
         statDesc3: "प्रति माह",
 
         statTitle4: "हमारी प्रतिबद्धता",
@@ -1901,14 +1901,14 @@ const translations = {
 
         capacityFeature2Title:"पूरे वर्ष<br>स्थिर आपूर्ति",
 
-        capacityFeature3Title:"प्रति माह<br>100 टन तक",
+        capacityFeature3Title:"प्रति माह<br>100-200+ टन तक",
 
         capacityFeature4Title:"दीर्घकालिक<br>प्रतिबद्धता",
         capacitySectionTitle: "हमारी आपूर्ति क्षमता",
 
         capacityMaxTitle: "अधिकतम क्षमता",
 
-        capacityMaxValue: "100 टन / माह",
+        capacityMaxValue: "100-200+ टन / माह",
 
         capacityMaxDesc:
         "हमारी आपूर्ति क्षमता आपके खरीद अनुबंध के अनुसार संरचित, मापनीय और टिकाऊ प्रबंधन प्रणाली के माध्यम से बढ़ाई जा सकती है।",
@@ -1933,7 +1933,7 @@ const translations = {
         "ताज़गी और गुणवत्ता बनाए रखने के लिए कटाई के 24 घंटे के भीतर सभी उत्पाद भेजे जाते हैं.",
         capacityStep1Value: "40 टन / माह",
         capacityStep2Value: "60 टन / माह",
-        capacityStep3Value: "100 टन / माह",
+        capacityStep3Value: "100-200+ टन / माह",
         sourceTitle: "हमारे आपूर्ति स्रोत",
 
         sourceCard1Title: "रणनीतिक प्रांत",
@@ -1970,7 +1970,7 @@ const translations = {
         capacityCtaTitle: "आपकी नोनी आपूर्ति के लिए विश्वसनीय साझेदार",
 
         capacityCtaDesc:
-        "प्रति माह 100 टन तक की आपूर्ति क्षमता के साथ, हम आपकी उच्च गुणवत्ता वाली नोनी कच्चे माल की आवश्यकताओं के लिए दीर्घकालिक और विश्वसनीय साझेदार बनने के लिए तैयार हैं।",
+        "प्रति माह 100-200+ टन तक की आपूर्ति क्षमता के साथ, हम आपकी उच्च गुणवत्ता वाली नोनी कच्चे माल की आवश्यकताओं के लिए दीर्घकालिक और विश्वसनीय साझेदार बनने के लिए तैयार हैं।",
 
         capacityCtaFeature1: "स्थिर आपूर्ति",
         capacityCtaFeature2: "गुणवत्ता सुनिश्चित",
@@ -2144,7 +2144,7 @@ const translations = {
 
         capacity40: "40 吨 / 月",
         capacity60: "60 吨 / 月",
-        capacity100: "100 吨 / 月",
+        capacity100: "100-200+ 吨 / 月",
 
         capacityNote: "采收后24小时内发货。",
 
@@ -2197,8 +2197,8 @@ const translations = {
         statValue2: "4",
         statDesc2: "重点省份",
 
-        statTitle3: "最大产能",
-        statValue3: "100 吨",
+        statTitle3: "产能可根据需求调整",
+        statValue3: "100-200+ 吨",
         statDesc3: "每月",
 
         statTitle4: "我们的承诺",
@@ -2428,14 +2428,14 @@ const translations = {
 
         capacityFeature2Title:"全年稳定<br>供应",
 
-        capacityFeature3Title:"最高可达<br>100吨/月",
+        capacityFeature3Title:"最高可达<br>100-200+吨/月",
 
         capacityFeature4Title:"长期合作<br>承诺",
         capacitySectionTitle: "我们的供应能力",
 
         capacityMaxTitle: "最大供应能力",
 
-        capacityMaxValue: "100 吨 / 月",
+        capacityMaxValue: "100-200+ 吨 / 月",
 
         capacityMaxDesc:
         "我们可根据您的采购合同需求，通过规范化、可持续的供应管理体系逐步提升供应能力。",
@@ -2460,7 +2460,7 @@ const translations = {
         "所有产品均在采收后24小时内发货，以确保新鲜度和产品品质。",
         capacityStep1Value: "40 吨 / 月",
         capacityStep2Value: "60 吨 / 月",
-        capacityStep3Value: "100 吨 / 月",
+        capacityStep3Value: "100-200+ 吨 / 月",
         sourceTitle: "我们的供应来源",
 
         sourceCard1Title: "战略合作省份",
