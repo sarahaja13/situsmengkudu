@@ -111,7 +111,7 @@ const translations = {
 
         whoDesc:"Kami adalah jaringan konsolidasi petani mengkudu di berbagai provinsi strategis Indonesia. Dengan sistem pengumpulan yang terstruktur, kontrol kualitas yang ketat, serta manajemen suplai jangka panjang, kami siap menjadi mitra supply yang stabil dan terpercaya di pasar lokal maupun global.",
         statTitle1: "Jaringan Petani",
-        statValue1: "1.000+",
+        statValue1: "100+",
         statDesc1: "Petani mitra aktif",
 
         statTitle2: "Wilayah",
@@ -226,31 +226,45 @@ const translations = {
 
         benefit6Title:"Gaya Hidup Alami",
         benefit6Desc:"Pilihan alami untuk hidup sehat dan seimbang setiap hari.",
-        qualityTitle: "STANDAR KUALITAS PENANGANAN",
+        qualityTitle: "STANDAR PENANGANAN DAN PENGENDALIAN KUALITAS",
 
-        qualityStep1Title: "1. Seleksi Buah Berkualitas",
-        qualityStep1Desc: "Seleksi buah berkualitas dilakukan oleh petani sebelum proses panen untuk memastikan hanya buah yang memenuhi standar yang dipetik.",
+        qualityStep1Title: "1. Seleksi Buah di Kebun",
 
-        qualityStep2Title: "2. Sortasi Awal",
-        qualityStep2Desc: "Sortasi awal dilakukan oleh Tim Quality Control (QC) sebelum buah dikirim ke gudang penyimpanan dingin (cold storage).",
+        qualityStep1Desc:
+        "Petani melakukan seleksi sebelum panen untuk memastikan hanya buah mengkudu yang memenuhi standar kualitas yang dipanen.",
 
-        qualityStep3Title: "3. Pengangkutan ke Cold Storage",
-        qualityStep3Desc: "Buah diangkut ke gudang cold storage dengan penanganan yang sesuai untuk menjaga kualitas.",
+        qualityStep2Title: "2. Pemeriksaan Kualitas Awal",
 
-        qualityStep4Title: "4. Sortasi Ulang",
-        qualityStep4Desc: "Sortasi ulang dilakukan oleh Tim QC di gudang untuk memastikan seluruh buah memenuhi standar kualitas sebelum diproses lebih lanjut.",
+        qualityStep2Desc:
+        "Tim Quality Control (QC) melakukan sortasi awal sebelum buah dikirim ke fasilitas cold storage.",
+        qualityStep3Title: "3. Transportasi ke Cold Storage",
+
+        qualityStep3Desc:
+        "Buah diangkut menggunakan prosedur penanganan yang sesuai untuk menjaga kesegaran dan kualitas selama proses transportasi.",
+        qualityStep4Title: "4. Sortasi Ulang oleh Quality Control",
+
+        qualityStep4Desc:
+        "Setibanya di fasilitas cold storage, Tim QC melakukan pemeriksaan dan sortasi ulang guna memastikan seluruh buah memenuhi standar kualitas ekspor.",
 
         qualityStep5Title: "5. Pembekuan (ABF)",
-        qualityStep5Desc: "Buah dicuci, dikeringkan, kemudian dibekukan pada suhu -40°C menggunakan Air Blast Freezer (ABF) guna menjaga kesegaran dan kualitas produk.",
 
-        qualityStep6Title: "6. Pengemasan",
-        qualityStep6Desc: "Buah dikemas menggunakan kantong PP (Polypropylene) berisi 10 kg, kemudian disusun kembali ke dalam kemasan PP yang lebih besar hingga mencapai 50 kg per kemasan.",
+        qualityStep5Desc:
+        "Buah dicuci, dikeringkan, kemudian dibekukan pada suhu -40°C menggunakan Air Blast Freezer (ABF) untuk mempertahankan kesegaran, warna, tekstur, dan kualitas produk.",
 
-        qualityStep7Title: "7. Penyimpanan",
-        qualityStep7Desc: "Produk disimpan kembali di cold storage hingga mencapai jumlah muatan 1 kontainer 40 feet.",
+        qualityStep6Title: "6. Proses Pengemasan",
 
-        qualityStep8Title: "8. Pengiriman",
-        qualityStep8Desc: "Setelah muatan 1 kontainer 40 feet terpenuhi, produk dikirim menggunakan reefer container menuju pelabuhan untuk proses pengiriman.",
+        qualityStep6Desc:
+        "Produk dikemas dalam kantong PP (Polypropylene) berisi 10 kg per kantong, kemudian disusun ke dalam kemasan PP yang lebih besar dengan berat 50 kg per kemasan sesuai standar penanganan.",
+
+        qualityStep7Title: "7. Penyimpanan di Cold Storage",
+
+        qualityStep7Desc:
+        "Produk beku disimpan pada suhu yang terkontrol di fasilitas cold storage hingga jumlah muatan memenuhi kapasitas ekspor.",
+
+        qualityStep8Title: "8. Pemuatan ke Reefer Container",
+
+        qualityStep8Desc:
+        "Setelah kapasitas terpenuhi, produk dimuat ke dalam Reefer Container 40 Feet dengan rantai dingin (cold chain) tetap terjaga untuk memastikan kualitas produk tetap optimal.",
         productCtaTitle: "Butuh Pasokan Mengkudu Segar Berkualitas?",
 
         productCtaDesc:
@@ -612,7 +626,7 @@ const translations = {
 
         whoDesc:"We are a consolidated network of noni farmers across strategic regions of Indonesia. Through a structured collection system, strict quality control, and long-term supply management, we are committed to becoming a reliable and stable supply partner for both domestic and international markets.",
         statTitle1: "Farmer Network",
-        statValue1: "1,000+",
+        statValue1: "100+",
         statDesc1: "Active partner farmers",
 
         statTitle2: "Coverage Area",
@@ -727,31 +741,47 @@ const translations = {
 
         benefit6Title: "Natural Healthy Lifestyle",
         benefit6Desc: "A natural choice for maintaining a healthy and balanced lifestyle.",
-        qualityTitle: "QUALITY HANDLING STANDARDS",
+        qualityTitle: "HANDLING AND QUALITY CONTROL STANDARDS",
 
-        qualityStep1Title: "1. Fruit Selection",
-        qualityStep1Desc: "High-quality fruits are selected by farmers before harvesting to ensure that only fruits meeting the required standards are picked.",
+        qualityStep1Title: "1. Fruit Selection at the Farm",
 
-        qualityStep2Title: "2. Initial Sorting",
-        qualityStep2Desc: "Initial sorting is carried out by the Quality Control (QC) team before the fruits are transported to the cold storage facility.",
+        qualityStep1Desc:
+        "Farmers carefully select the fruits before harvesting to ensure that only noni fruits meeting the required quality standards are harvested.",
+
+        qualityStep2Title: "2. Initial Quality Inspection",
+
+        qualityStep2Desc:
+        "The Quality Control (QC) team conducts an initial inspection and sorting process before the fruits are transported to the cold storage facility.",
 
         qualityStep3Title: "3. Transportation to Cold Storage",
-        qualityStep3Desc: "The fruits are transported to the cold storage facility using proper handling procedures to maintain their quality.",
 
-        qualityStep4Title: "4. Final Sorting",
-        qualityStep4Desc: "A second sorting process is conducted by the QC team at the warehouse to ensure all fruits meet quality standards before further processing.",
+        qualityStep3Desc:
+        "The fruits are transported using proper handling procedures to preserve their freshness and quality throughout the transportation process.",
+
+        qualityStep4Title: "4. Secondary Quality Inspection",
+
+        qualityStep4Desc:
+        "Upon arrival at the cold storage facility, the QC team performs a second inspection and sorting process to ensure that all fruits comply with export quality standards.",
 
         qualityStep5Title: "5. Freezing (ABF)",
-        qualityStep5Desc: "The fruits are washed, dried, and frozen at -40°C using an Air Blast Freezer (ABF) to preserve freshness and product quality.",
 
-        qualityStep6Title: "6. Packaging",
-        qualityStep6Desc: "The fruits are packed in 10 kg polypropylene (PP) bags and then repacked into larger PP bags with a total weight of 50 kg per package.",
+        qualityStep5Desc:
+        "The fruits are washed, dried, and frozen at -40°C using an Air Blast Freezer (ABF) to preserve freshness, color, texture, and overall product quality.",
+
+        qualityStep6Title: "6. Packaging Process",
+
+        qualityStep6Desc:
+        "The products are packed into 10 kg polypropylene (PP) bags and then arranged into larger PP packages with a total weight of 50 kg per package in accordance with handling standards.",
 
         qualityStep7Title: "7. Cold Storage",
-        qualityStep7Desc: "The products are stored in cold storage until a full 40-foot container load is ready.",
 
-        qualityStep8Title: "8. Shipment",
-        qualityStep8Desc: "Once a full 40-foot container load is completed, the products are transported in a reefer container to the port for shipment.",
+        qualityStep7Desc:
+        "The frozen products are stored at a controlled temperature in the cold storage facility until the export shipment reaches the required capacity.",
+
+        qualityStep8Title: "8. Loading into Reefer Container",
+
+        qualityStep8Desc:
+        "Once the required shipment capacity has been reached, the products are loaded into a 40-foot Reefer Container while maintaining an uninterrupted cold chain to ensure optimal product quality.",
         productCtaTitle: "Need a Reliable Supply of Premium Fresh Noni?",
 
         productCtaDesc:
@@ -1116,7 +1146,7 @@ const translations = {
         whoDesc:"우리는 인도네시아 여러 전략 지역의 노니 농가를 통합한 네트워크입니다. 체계적인 수집 시스템, 엄격한 품질 관리, 그리고 장기적인 공급 관리를 통해 국내외 시장에서 신뢰받는 안정적인 공급 파트너가 되고자 합니다.",
 
         statTitle1: "농가 네트워크",
-        statValue1: "1,000+",
+        statValue1: "100+",
         statDesc1: "협력 농가",
 
         statTitle2: "지역",
@@ -1231,32 +1261,47 @@ const translations = {
 
         benefit6Title: "건강한 자연 생활",
         benefit6Desc: "매일 건강하고 균형 잡힌 삶을 위한 자연의 선택입니다.",
-        qualityTitle: "품질 관리 및 취급 기준",
+        qualityTitle: "취급 및 품질관리 기준",
 
-        qualityStep1Title: "1. 원료 선별",
-        qualityStep1Desc: "수확 전 농가에서 고품질 과실만 선별하여 기준에 부합하는 과실만 수확합니다.",
+        qualityStep1Title: "1. 농장에서의 원료 선별",
 
-        qualityStep2Title: "2. 1차 선별",
-        qualityStep2Desc: "과실은 냉장 저장고(Cold Storage)로 운송되기 전에 품질관리(QC)팀이 1차 선별을 실시합니다.",
+        qualityStep1Desc:
+        "수확 전에 농가에서 과실을 선별하여 품질 기준을 충족하는 노니만 수확합니다.",
 
-        qualityStep3Title: "3. 냉장 저장고 운송",
-        qualityStep3Desc: "과실은 품질 유지를 위해 적절한 취급 절차에 따라 냉장 저장고로 운송됩니다.",
+        qualityStep2Title: "2. 1차 품질 검사",
 
-        qualityStep4Title: "4. 2차 선별",
-        qualityStep4Desc: "창고에서 QC팀이 다시 한 번 선별하여 모든 과실이 품질 기준을 충족하는지 확인한 후 다음 공정으로 진행합니다.",
+        qualityStep2Desc:
+        "과실을 냉장 저장시설(Cold Storage)로 운송하기 전에 품질관리(QC)팀이 1차 검사 및 선별을 실시합니다.",
+
+        qualityStep3Title: "3. 냉장 저장시설 운송",
+
+        qualityStep3Desc:
+        "운송 과정 동안 신선도와 품질을 유지하기 위해 적절한 취급 절차에 따라 과실을 운송합니다.",
+
+        qualityStep4Title: "4. 2차 품질 검사",
+
+        qualityStep4Desc:
+        "냉장 저장시설에 도착한 후 QC팀이 다시 검사 및 선별을 실시하여 모든 과실이 수출 품질 기준을 충족하는지 확인합니다.",
 
         qualityStep5Title: "5. 급속 냉동 (ABF)",
-        qualityStep5Desc: "과실을 세척 및 건조한 후 Air Blast Freezer(ABF)를 사용하여 -40°C에서 급속 냉동해 신선도와 품질을 유지합니다.",
 
-        qualityStep6Title: "6. 포장",
-        qualityStep6Desc: "과실은 10kg PP(폴리프로필렌) 포대에 포장한 후, 총 50kg 단위의 대형 PP 포장으로 다시 포장됩니다.",
+        qualityStep5Desc:
+        "과실을 세척하고 건조한 후 Air Blast Freezer(ABF)를 이용하여 -40°C에서 급속 냉동하여 신선도, 색상, 식감 및 제품 품질을 유지합니다.",
+
+        qualityStep6Title: "6. 포장 공정",
+
+        qualityStep6Desc:
+        "제품을 10kg PP(폴리프로필렌) 포대에 포장한 후, 취급 기준에 따라 총 50kg 단위의 대형 PP 포장으로 재포장합니다.",
 
         qualityStep7Title: "7. 냉장 보관",
-        qualityStep7Desc: "제품은 40피트 컨테이너 1대 분량이 확보될 때까지 냉장 저장고에 보관됩니다.",
 
-        qualityStep8Title: "8. 출하",
-        qualityStep8Desc: "40피트 컨테이너 분량이 준비되면 Reefer Container를 이용해 항구로 운송하여 선적합니다.",
-        productCtaTitle: "고품질 신선한 노니 공급이 필요하신가요?",
+        qualityStep7Desc:
+        "냉동 제품은 수출 물량이 확보될 때까지 일정한 온도로 관리되는 냉장 저장시설에 보관됩니다.",
+
+        qualityStep8Title: "8. 리퍼 컨테이너 적재",
+
+        qualityStep8Desc:
+        "수출 물량이 확보되면 냉장 유통체계(Cold Chain)를 유지한 상태로 40피트 리퍼 컨테이너에 적재하여 최적의 제품 품질을 보장합니다.",        productCtaTitle: "고품질 신선한 노니 공급이 필요하신가요?",
 
         productCtaDesc:
         "고품질 원료 공급을 위한 최고의 파트너가 되어드리겠습니다.",
@@ -1619,7 +1664,7 @@ const translations = {
 
         whoDesc:"हम इंडोनेशिया के विभिन्न प्रमुख क्षेत्रों में स्थित नोनी किसानों का एक संगठित नेटवर्क हैं। सुव्यवस्थित संग्रह प्रणाली, कड़े गुणवत्ता नियंत्रण और दीर्घकालिक आपूर्ति प्रबंधन के माध्यम से हम स्थानीय तथा वैश्विक बाजारों के लिए एक विश्वसनीय और स्थिर आपूर्ति साझेदार बनने के लिए प्रतिबद्ध हैं।",
         statTitle1: "किसान नेटवर्क",
-        statValue1: "1,000+",
+        statValue1: "100+",
         statDesc1: "सक्रिय साझेदार किसान",
 
         statTitle2: "क्षेत्र",
@@ -1734,32 +1779,47 @@ const translations = {
 
         benefit6Title: "प्राकृतिक स्वस्थ जीवनशैली",
         benefit6Desc: "स्वस्थ और संतुलित जीवन के लिए एक प्राकृतिक विकल्प।",
-        qualityTitle: "गुणवत्ता एवं हैंडलिंग मानक",
+        qualityTitle: "हैंडलिंग एवं गुणवत्ता नियंत्रण मानक",
 
-        qualityStep1Title: "1. उच्च गुणवत्ता वाले फलों का चयन",
-        qualityStep1Desc: "कटाई से पहले किसान उच्च गुणवत्ता वाले फलों का चयन करते हैं ताकि केवल मानकों को पूरा करने वाले फलों की ही कटाई की जाए।",
+        qualityStep1Title: "1. खेत में फलों का चयन",
 
-        qualityStep2Title: "2. प्रारंभिक छंटाई",
-        qualityStep2Desc: "फलों को कोल्ड स्टोरेज भेजने से पहले क्वालिटी कंट्रोल (QC) टीम द्वारा प्रारंभिक छंटाई की जाती है।",
+        qualityStep1Desc:
+        "कटाई से पहले किसान फलों का चयन करते हैं ताकि केवल गुणवत्ता मानकों को पूरा करने वाले नोनी फलों की ही कटाई की जाए।",
+
+        qualityStep2Title: "2. प्रारंभिक गुणवत्ता निरीक्षण",
+
+        qualityStep2Desc:
+        "फलों को कोल्ड स्टोरेज भेजने से पहले क्वालिटी कंट्रोल (QC) टीम प्रारंभिक निरीक्षण एवं छंटाई करती है।",
 
         qualityStep3Title: "3. कोल्ड स्टोरेज तक परिवहन",
-        qualityStep3Desc: "फलों की गुणवत्ता बनाए रखने के लिए उन्हें उचित तरीके से कोल्ड स्टोरेज तक पहुँचाया जाता है।",
 
-        qualityStep4Title: "4. पुनः छंटाई",
-        qualityStep4Desc: "गोदाम में QC टीम द्वारा दोबारा छंटाई की जाती है ताकि आगे की प्रक्रिया से पहले सभी फल गुणवत्ता मानकों को पूरा करें।",
+        qualityStep3Desc:
+        "परिवहन के दौरान ताजगी और गुणवत्ता बनाए रखने के लिए फलों को उचित हैंडलिंग प्रक्रियाओं के अनुसार पहुँचाया जाता है।",
+
+        qualityStep4Title: "4. पुनः गुणवत्ता निरीक्षण",
+
+        qualityStep4Desc:
+        "कोल्ड स्टोरेज पहुँचने पर QC टीम दोबारा निरीक्षण और छंटाई करती है ताकि सभी फल निर्यात गुणवत्ता मानकों को पूरा करें।",
 
         qualityStep5Title: "5. फ्रीज़िंग (ABF)",
-        qualityStep5Desc: "फलों को धोकर, सुखाकर Air Blast Freezer (ABF) में -40°C पर फ्रीज़ किया जाता है ताकि उनकी ताजगी और गुणवत्ता बनी रहे।",
 
-        qualityStep6Title: "6. पैकेजिंग",
-        qualityStep6Desc: "फलों को 10 किलोग्राम के पॉलीप्रोपाइलीन (PP) बैग में पैक किया जाता है, फिर उन्हें 50 किलोग्राम क्षमता वाले बड़े PP बैग में दोबारा पैक किया जाता है।",
+        qualityStep5Desc:
+        "फलों को धोकर, सुखाकर Air Blast Freezer (ABF) में -40°C पर फ्रीज़ किया जाता है ताकि उनकी ताजगी, रंग, बनावट और गुणवत्ता सुरक्षित रहे।",
 
-        qualityStep7Title: "7. कोल्ड स्टोरेज",
-        qualityStep7Desc: "उत्पादों को 40-फुट कंटेनर की पूरी क्षमता भरने तक कोल्ड स्टोरेज में रखा जाता है।",
+        qualityStep6Title: "6. पैकेजिंग प्रक्रिया",
 
-        qualityStep8Title: "8. शिपमेंट",
-        qualityStep8Desc: "40-फुट कंटेनर भर जाने के बाद उत्पादों को रीफर कंटेनर के माध्यम से बंदरगाह तक भेजा जाता है।",
-        productCtaTitle: "क्या आपको उच्च गुणवत्ता वाले ताज़े नोनी की स्थिर आपूर्ति चाहिए?",
+        qualityStep6Desc:
+        "उत्पादों को 10 किलोग्राम पॉलीप्रोपाइलीन (PP) बैग में पैक किया जाता है, फिर निर्धारित हैंडलिंग मानकों के अनुसार 50 किलोग्राम क्षमता वाले बड़े PP पैकेज में व्यवस्थित किया जाता है।",
+
+        qualityStep7Title: "7. कोल्ड स्टोरेज में भंडारण",
+
+        qualityStep7Desc:
+        "जमे हुए उत्पादों को नियंत्रित तापमान वाले कोल्ड स्टोरेज में तब तक रखा जाता है जब तक निर्यात के लिए आवश्यक मात्रा पूरी नहीं हो जाती।",
+
+        qualityStep8Title: "8. रीफर कंटेनर में लोडिंग",
+
+        qualityStep8Desc:
+        "आवश्यक मात्रा पूरी होने के बाद उत्पादों को कोल्ड चेन बनाए रखते हुए 40-फुट रीफर कंटेनर में लोड किया जाता है ताकि उनकी सर्वोत्तम गुणवत्ता बनी रहे।",        productCtaTitle: "क्या आपको उच्च गुणवत्ता वाले ताज़े नोनी की स्थिर आपूर्ति चाहिए?",
 
         productCtaDesc:
         "हम आपकी कच्चे माल की आवश्यकताओं के लिए विश्वसनीय साझेदार बनने के लिए तैयार हैं।",
@@ -2130,7 +2190,7 @@ const translations = {
         whoDesc:"我们是覆盖印度尼西亚多个战略地区的诺丽果种植者联盟。凭借完善的收购体系、严格的质量控制以及长期供应管理，我们致力于成为国内外市场值得信赖、稳定可靠的供应合作伙伴。",
 
         statTitle1: "合作农户网络",
-        statValue1: "1,000+",
+        statValue1: "100+",
         statDesc1: "合作农户",
 
         statTitle2: "覆盖区域",
@@ -2245,31 +2305,47 @@ const translations = {
 
         benefit6Title: "天然健康生活方式",
         benefit6Desc: "每天保持健康、均衡生活的天然选择。",
-        qualityTitle: "质量管理与处理标准",
+        qualityTitle: "产品处理与质量控制标准",
 
-        qualityStep1Title: "1. 优质果实筛选",
-        qualityStep1Desc: "采收前由农户进行优质果实筛选，确保只有符合标准的果实被采摘。",
+        qualityStep1Title: "1. 果园原料筛选",
 
-        qualityStep2Title: "2. 初次分选",
-        qualityStep2Desc: "果实运送至冷库（Cold Storage）之前，由质量控制（QC）团队进行初次分选。",
+        qualityStep1Desc:
+        "采收前由农户进行果实筛选，确保只有符合质量标准的诺丽果被采摘。",
+
+        qualityStep2Title: "2. 初步质量检验",
+
+        qualityStep2Desc:
+        "果实运送至冷库前，由质量控制（QC）团队进行初步检验与分选。",
 
         qualityStep3Title: "3. 运送至冷库",
-        qualityStep3Desc: "果实采用规范的运输方式运送至冷库，以确保产品质量。",
 
-        qualityStep4Title: "4. 二次分选",
-        qualityStep4Desc: "在仓库内由QC团队再次进行分选，确保所有果实在进一步加工前均符合质量标准。",
+        qualityStep3Desc:
+        "采用规范的操作流程将果实运送至冷库，在运输过程中保持其新鲜度和品质。",
+
+        qualityStep4Title: "4. 二次质量检验",
+
+        qualityStep4Desc:
+        "果实到达冷库后，由QC团队再次进行检验与分选，确保所有产品符合出口质量标准。",
 
         qualityStep5Title: "5. 急速冷冻（ABF）",
-        qualityStep5Desc: "果实经清洗、干燥后，使用 Air Blast Freezer（ABF）在 -40°C 下急速冷冻，以保持产品的新鲜度和品质。",
 
-        qualityStep6Title: "6. 包装",
-        qualityStep6Desc: "果实先装入10公斤聚丙烯（PP）包装袋，再重新装入总重量50公斤的大型PP包装袋。",
+        qualityStep5Desc:
+        "果实经清洗、干燥后，使用 Air Blast Freezer（ABF）在 -40°C 下进行急速冷冻，以保持产品的新鲜度、色泽、质地及整体品质。",
+
+        qualityStep6Title: "6. 包装流程",
+
+        qualityStep6Desc:
+        "产品先装入10公斤聚丙烯（PP）包装袋，再按照处理标准装入总重量50公斤的大型PP包装中。",
 
         qualityStep7Title: "7. 冷库存储",
-        qualityStep7Desc: "产品存放于冷库中，直至达到一个40英尺集装箱的装载量。",
 
-        qualityStep8Title: "8. 发运",
-        qualityStep8Desc: "当40英尺集装箱装满后，产品将使用冷藏集装箱（Reefer Container）运送至港口进行出口运输。",
+        qualityStep7Desc:
+        "冷冻产品存放于恒温冷库中，直至达到出口装运所需的货量。",
+
+        qualityStep8Title: "8. 装载至冷藏集装箱",
+
+        qualityStep8Desc:
+        "达到装运数量后，产品装入40英尺冷藏集装箱（Reefer Container），并全程保持冷链（Cold Chain），确保产品品质始终保持最佳状态。",
         productCtaTitle: "需要优质新鲜诺丽果稳定供应吗？",
 
         productCtaDesc:
