@@ -4,7 +4,7 @@
   overflow: visible;
   background: #FFFDF8;
   margin-bottom: -6%;
-  top: 15%;
+  top: 6%!important;
 }
 
 .product-bg{
@@ -66,6 +66,9 @@
     border: none;
     box-shadow: none;
     margin-top: 4%;
+    left:-3%;
+    position:relative;
+    transform: translateY(8px);
 }
 
 .product-content h1{
@@ -96,7 +99,7 @@
 
     position:absolute;
 
-    top:38%;
+    top:51%;
 
     right:60px;
 
@@ -370,6 +373,14 @@ Fresh Product
 
 }
 
+.section-title {
+  position: relative;
+  z-index: 999;
+  text-align: center;
+
+  margin-bottom: 2%;
+}
+
 .section-title h2{
 
     color:#174D2D;
@@ -393,6 +404,8 @@ Fresh Product
     gap:12px;
 
     margin-bottom:35px;
+
+    transform: translateY(9px);
 
 }
 
@@ -450,7 +463,7 @@ Fresh Product
 
     gap:12px;
 
-    align-items:flex-start;
+    align-items:center;
 
     margin-bottom:18px;
 
@@ -730,9 +743,9 @@ QUALITY PROCESS
 
     position:absolute;
 
-    top:20px;
+    top:13%;
 
-    right:25px;
+    right:-1%;
 
     width:90px;
 
@@ -1325,4 +1338,60 @@ MOBILE HERO
 
 }
 
+}
+/*=========================
+PRODUCT LIST
+=========================*/
+
+.product-list{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:18px 34px;
+    width:100%;
+    max-width:650px;
+    margin-top:-2%;
+}
+
+.product-list-item{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:20px;
+    font-weight:700;
+    color:#114B29;
+    line-height:1.4;
+}
+
+.product-list-item i{
+    flex-shrink:0;
+    font-size:24px;
+    color:#73A831;
+}
+
+.product-list-item small{
+    font-size:15px;
+    font-weight:600;
+    color:#7A7A7A;
+}
+
+@media (max-width:768px){
+    .product-list{
+        grid-template-columns:1fr;
+        gap:14px;
+        max-width:360px;
+        margin:0 auto;
+        text-align:left;
+    }
+
+    .product-list-item{
+        font-size:17px;
+        background:rgba(255,255,255,.78);
+        backdrop-filter:blur(8px);
+        border-radius:14px;
+        padding:13px 16px;
+    }
+
+    .product-list-item small{
+        font-size:13px;
+    }
 }

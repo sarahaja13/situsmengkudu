@@ -6,6 +6,11 @@ CONTACT HERO
 
 .container {
     justify-content: center;
+    transform:translateX(-588px);
+}
+
+.alamat{
+    transform: translateY(8px);
 }
 
 .contact-hero .product-features{
@@ -28,10 +33,15 @@ CONTACT HERO
 
 .organic-logo {
   position: absolute;
-  top: 41%;
+  top: 54%;
   right: 60px;
   width: 140px;
   z-index: 4;
+}
+
+.hero-highlights{
+    min-width:127%;
+    margin-bottom: 15%;
 }
 
 .contact-hero .feature:last-child{
@@ -43,7 +53,7 @@ CONTACT HERO
 .contact-hero .feature{
 
     flex:1;
-
+    height:180px;
 }
 
 .contact-hero .feature h3{
@@ -110,7 +120,7 @@ CONTACT INFO
 
     display:flex;
     align-items:center;
-
+    transform: translateY(-20px);
     gap:18px;
 
     padding:28px 26px;
@@ -705,7 +715,8 @@ FAQ
     border:1px solid #EFE1C2;
     border-radius:26px;
     padding:40px;
-
+    transform: translateX(5px);
+    
 }
 
 .section-tag{
@@ -807,7 +818,7 @@ PARTNER CARD
     min-height:470px;
 
     background:#1E5A2B;
-
+    transform: translateX(15px);
 }
 
 .partner-overlay{

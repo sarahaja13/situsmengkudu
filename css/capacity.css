@@ -45,6 +45,10 @@ CAPACITY SECTION
     margin-bottom: 2%;
 }
 
+.product-features{
+    transform: translateX(-17px);
+}
+
 .hero-product {
     top:16%;
 }
@@ -65,6 +69,7 @@ CAPACITY SECTION
 }
 
 .capacity-info{
+    transform: translateY(-15px);
     padding: 9px;
 }
 
@@ -85,7 +90,7 @@ CAPACITY SECTION
 }
 
 .capacity-info p{
-
+    transform: translateY(-24px);
     line-height:2;
     color:#555;
 
@@ -102,7 +107,7 @@ GRAPH
     display:flex;
     justify-content:center;
     align-items:flex-end;
-
+    transform: translateY(32px);
 }
 
 .chart-grid{
@@ -505,7 +510,7 @@ SUPPLY SOURCE
 
     color:#2F6C33;
 
-    font-size:32px;
+    font-size:20px;
 
     font-weight:700;
 

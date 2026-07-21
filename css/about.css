@@ -1166,7 +1166,7 @@ VALUES
     grid-template-columns:repeat(5,1fr);
 
     gap:24px;
-
+    top:-4%;
     left:3%;
     position: relative;
 
