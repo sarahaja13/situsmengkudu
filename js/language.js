@@ -326,7 +326,7 @@ const translations = {
         achievement1: "Petani Mitra Aktif",
         achievement2: "Provinsi Strategis",
         achievement3: "Kapasitas Maksimal Per Bulan",
-        achievement4: "Komitmen Kualitas",
+        achievement4: "Bersertifikat Organik",
         advCtaTitle: "Mari Tumbuh Bersama<br>Membangun Masa Depan Sehat",
 
         advCtaDesc:
@@ -452,7 +452,7 @@ const translations = {
 
         contactInfoHours: "Jam Operasional",
 
-        contactInfoHoursValue: "Senin - Sabtu<br>08.00 - 16.00 WIB",
+        contactInfoHoursValue: "Senin - Jum'at<br>08.00 - 16.00 WIB",
         contactFormTitle: "Kirim Pesan Kepada Kami",
 
         contactFormSubtitle:
@@ -848,7 +848,7 @@ const translations = {
         achievement1: "Active Partner Farmers",
         achievement2: "Strategic Provinces",
         achievement3: "Maximum Monthly Capacity",
-        achievement4: "Quality Commitment",
+        achievement4: "Certified Organic",
         advCtaTitle: "Let's Grow Together<br>Building a Healthier Future",
 
         advCtaDesc:
@@ -974,7 +974,7 @@ const translations = {
 
         contactInfoHours: "Business Hours",
 
-        contactInfoHoursValue: "Monday - Saturday<br>08:00 AM - 04:00 PM (WIB)",
+        contactInfoHoursValue: "Monday - Friday<br>08:00 AM - 04:00 PM (WIB)",
         contactFormTitle: "Send Us a Message",
 
         contactFormSubtitle:
@@ -1372,7 +1372,7 @@ const translations = {
         achievement1: "협력 농가",
         achievement2: "전략적 생산 지역",
         achievement3: "월 최대 공급 능력",
-        achievement4: "품질에 대한 약속",
+        achievement4: "유기농 인증",
         advCtaTitle: "함께 성장하며<br>더 건강한 미래를 만듭니다",
 
         advCtaDesc:
@@ -1498,7 +1498,7 @@ const translations = {
 
         contactInfoHours: "운영 시간",
 
-        contactInfoHoursValue: "월요일 - 토요일<br>08:00 - 16:00 (WIB)",
+        contactInfoHoursValue: "월요일 - 금요일<br>08:00 - 16:00 (WIB)",
         contactFormTitle: "문의 보내기",
 
         contactFormSubtitle:
@@ -1895,7 +1895,7 @@ const translations = {
         achievement1: "सक्रिय साझेदार किसान",
         achievement2: "रणनीतिक प्रांत",
         achievement3: "अधिकतम मासिक क्षमता",
-        achievement4: "गुणवत्ता के प्रति प्रतिबद्धता",
+        achievement4: "जैविक प्रमाणित",
         advCtaTitle: "आइए साथ मिलकर बढ़ें<br>एक स्वस्थ भविष्य का निर्माण करें",
 
         advCtaDesc:
@@ -2021,7 +2021,7 @@ const translations = {
 
         contactInfoHours: "कार्य समय",
 
-        contactInfoHoursValue: "सोमवार - शनिवार<br>08:00 - 16:00 WIB",
+        contactInfoHoursValue: "सोमवार - शुक्रवार<br>08:00 - 16:00 WIB",
         contactFormTitle: "हमें संदेश भेजें",
 
         contactFormSubtitle:
@@ -2427,7 +2427,7 @@ const translations = {
         achievement1: "合作农户",
         achievement2: "战略省份",
         achievement3: "每月最大供应能力",
-        achievement4: "品质承诺",
+        achievement4: "有机认证",
         advCtaTitle: "携手共进<br>共创健康未来",
 
         advCtaDesc:
@@ -2553,7 +2553,7 @@ const translations = {
 
         contactInfoHours: "营业时间",
 
-        contactInfoHoursValue: "周一至周六<br>08:00 - 16:00（WIB）",
+        contactInfoHoursValue: "周一至周五<br>08:00 - 16:00（WIB）",
         contactFormTitle: "发送您的留言",
 
         contactFormSubtitle:
