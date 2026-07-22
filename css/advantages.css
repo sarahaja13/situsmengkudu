@@ -223,7 +223,9 @@ OUR VALUES
 
     background:#FFFDF8;
 
+    margin-bottom: 18%;
 }
+
 
 .values-container{
 
@@ -253,6 +255,8 @@ OUR VALUES
     gap:18px;
 
     height:70px;
+
+    transform: translateX(20%);
 }
 
 .value-card{
@@ -345,6 +349,7 @@ Achievement
 
     margin-top: -24%;
 
+    display:none;
 }
 
 .achievement-card h3{
@@ -466,6 +471,8 @@ ADVANTAGES CTA
     align-items:center;
 
     position:relative;
+
+    top: 57% !important;;
 
 }
 

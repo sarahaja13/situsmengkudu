@@ -54,23 +54,21 @@ CAPACITY SECTION
 }
 
 .capacity-card{
+    display:flex;
+    flex-direction:column;
 
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    margin-top: 2px;
     border:1px solid #EFE2C0;
-
     border-radius:24px;
-    height:432px;
     background:#FFFCF7;
 
     padding:35px;
-
+    transform: translateY(-55px);
 }
 
 .capacity-info{
-    transform: translateY(-15px);
-    padding: 9px;
+    transform:none;
+    padding:0;
+    margin-bottom:35px;
 }
 
 .capacity-info h3{
@@ -103,22 +101,20 @@ GRAPH
 =====================*/
 
 .capacity-chart{
-
     display:flex;
     justify-content:center;
-    align-items:flex-end;
-    transform: translateY(32px);
+    align-items:center;
+    transform:none;
 }
 
 .chart-grid{
-
     display:flex;
     gap:18px;
     align-items:flex-end;
-    margin-left: -3%;
-    margin-bottom: 82%;
-}
 
+    margin-left:0;
+    margin-bottom:0;
+}
 .y-axis{
 
     position:relative;
@@ -145,7 +141,7 @@ GRAPH
 }
 
 .section-title h2 {
-  margin-top: -5%;
+  margin-top: 0%;
   margin-bottom: 2%;
 }
 
